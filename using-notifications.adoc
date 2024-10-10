@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: using-notifications.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
 summary: 通知功能表會顯示您目前的通知。 
 ---
 = 使用通知

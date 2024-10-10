@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: export-config-results.html 
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
-summary: 您可以使用「匯出」功能、從「 * 結果 * 」頁面匯出組態結果。 
+summary: 您可以使用「匯出」功能、從「結果」頁面匯出組態結果。 
 ---
 = 匯出組態結果
 :allow-uri-read: 

@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: subscribing-to-storage-solutions-categories-or-categories.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
 summary: 您可以訂閱單一或多個儲存解決方案、類別或您選擇的元件。 
 ---
 = 訂閱儲存解決方案、類別或元件

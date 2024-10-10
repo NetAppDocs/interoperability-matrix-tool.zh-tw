@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: how-to-use-what-if.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: * If 的功能 * 可讓您探索所有可能支援的組態。 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: If 功能可讓您探索所有可能支援的組態。 
 ---
 = 如何使用 If
 :allow-uri-read: 

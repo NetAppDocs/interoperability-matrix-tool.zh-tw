@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: interoperability-matrix-tool-overview.html 
-keywords: imt, interoperability, matrix, tool, 
+keywords: imt, interoperability, matrix, tool 
 summary: 您可以儲存最近的搜尋、以保留日後搜尋的條件。 
 ---
 = 儲存最近的搜尋

@@ -116,7 +116,6 @@
   <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
   <block id="3546181752f7fdc0791222b6f6046888" category="cell">按一下以 * 登出 * IMT 。</block>
   <block id="2500925cc553d5478036c23a243f8242" category="admonition">如果您調整視窗大小、所有頁面都會回應。</block>
-  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">您可以使用「匯出」功能、從「 * 結果 * 」頁面匯出組態結果。</block>
   <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">匯出組態結果</block>
   <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">您可以使用 *Export* 功能從 *Results* 頁面導出配置結果。組態結果匯出包含儲存解決方案的詳細資料、搜尋條件、組態詳細資料、以及任何特定警示或其他資訊。您可以將組態結果匯出至 Excel 試算表或 PDF 。</block>
   <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">包含組態結果的 Excel 工作表檔名格式為<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>。</block>
@@ -178,7 +177,6 @@
   <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block>–技術報告和知識庫文章。請考慮搜尋「 IMT 」。</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">NetApp社群</block>
   <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block>– NetApp 產品與解決方案論壇。請考慮搜尋「 IMT 」。</block>
-  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">* If 的功能 * 可讓您探索所有可能支援的組態。</block>
   <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">如何使用 If</block>
   <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">* If 的功能 * 可讓您探索所有可能支援的組態。您可以使用 * If * What I* 功能來升級或降級所選組態中的元件、並探索相容性。若要在升級或降級元件之後檢視所有支援的組態、您可以使用 * 匯出 * 選項、將組態詳細資料匯出至 Excel 工作表或 PDF 。</block>
   <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">在「 * 假設」視窗中選取要升級或降級的特定元件之後、您可以檢視所選元件是否與組態中的其他元件相容、或是否沒有相符的組態。如果沒有相符的組態、您必須考慮擴充初始條件以導出更多組態。</block>
@@ -250,7 +248,6 @@
   <block id="06d26363632e23515632763b195365bf" category="inline-link">訓練影片</block>
   <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Active IQ 顧問</block>
   <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">您也可以從首頁觀看<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block>或開啟<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block>。</block>
-  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">互通性對照表工具可讓您從 * 精簡搜尋條件 * 頁面探索產品的相容組態。</block>
   <block id="784e74992af3834f944fb515f4448bba" category="doc">「精簡搜尋條件」頁面可驗證相容性</block>
   <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">互通性對照表工具可讓您從 * 精簡搜尋條件 * 頁面探索產品的相容組態。您可以將本頁的組態結果縮小至產品所需的組態。</block>
   <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">只有當您輸入的條件具有支援的組態時、您才能從初始搜尋條件頁面瀏覽至 * 精簡搜尋條件 * 頁面。「 * 精簡搜尋條件 * 」頁面分為兩個窗格：</block>
@@ -326,7 +323,6 @@
   <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">按一下「 * 儲存 * 」。儲存條件 * 連結會在您儲存條件之後變更為 * 更新條件 * 。您最多可以儲存 10 個搜尋條件。</block>
   <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">當您按一下 * 儲存的搜尋 * 時、會顯示 * 儲存的條件 * 快顯視窗。「最近搜尋 * 」標籤會顯示您最近的搜尋。</block>
   <block id="d449eb38510b44904f1a170873f49309" category="paragraph">每個最近儲存的搜尋都會以其時間戳記來唯一識別。您可以按一下時間戳記、前往 * 精簡搜尋條件 * 頁面。</block>
-  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">您可以使用 * 結果 * 頁面中的假設條件功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。</block>
   <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">選取要升級或降級的元件</block>
   <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">您可以使用 * 結果 * 頁面中的 * 如果 * 功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。</block>
   <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">按一下 * 如果 * 可檢視您可以升級或降級以修改所選組態的元件。</block>
@@ -521,7 +517,6 @@
   <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">按一下 * 儲存的搜尋 * 。</block>
   <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">選取 * 最近搜尋 * 索引標籤以檢視最近儲存的搜尋。隨即顯示您最近的搜尋。</block>
   <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">選取 * 搜尋條件 * 索引標籤以檢視您特定的儲存搜尋條件。畫面會顯示您儲存的條件。</block>
-  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">您可以使用 * 進階搜尋 * 來搜尋不同的元件、並從搜尋條件中新增或移除元件。</block>
   <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">使用進階搜尋</block>
   <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">您可以使用 * 進階搜尋 * 來搜尋不同的元件、以便從搜尋條件中新增或移除元件。您可以使用 * 進階搜尋 * 視窗中的搜尋文字方塊來搜尋元件。</block>
   <block id="6756f030171d226f3144040663767c49" category="paragraph">您可以視需要使用下列篩選條件：</block>
@@ -605,4 +600,11 @@
   <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">執行一般搜尋</block>
   <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">儲存的搜尋功能</block>
   <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">使用找不到組態</block>
+  <block id="e2585c3f38551dcb44861bc8f2483a6c" category="summary">您可以使用「匯出」功能、從「結果」頁面匯出組態結果。</block>
+  <block id="7f9fe1dfd084891a277ce5fe84abf5e4" category="summary">If 功能可讓您探索所有可能支援的組態。</block>
+  <block id="1cdb0206d28a4fbf2bdfded91815cba2" category="summary">互通性對照表工具可讓您從「精簡搜尋條件」頁面探索產品的相容組態。</block>
+  <block id="8be207b454cca2428f17b89b2413b5f2" category="summary">您可以使用「儲存的搜尋」功能表來載入不同的解決方案或組態、此功能可讓您瀏覽至先前儲存的搜尋結果、最近的搜尋結果和儲存的組態。</block>
+  <block id="93e759c00f4904973cb28148a9620b79" category="summary">您可以使用「結果」頁面中的「假設條件」功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。</block>
+  <block id="7380129768771772e2da1bd4cb1ca40e" category="summary">「工具箱」標籤會顯示一個可用工具的清單、這些工具分為三個使用者類別。每個工具都會顯示一個連結。</block>
+  <block id="60ffbb3dc985d9f915426091ca716097" category="summary">您可以使用「進階搜尋」來搜尋不同的元件、並從搜尋條件中新增或移除元件。</block>
 </blocks>

@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: saved-search-capabilities.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
-summary: 您可以使用 * 儲存的搜尋 * 功能表來載入不同的解決方案或組態、此功能可讓您瀏覽至先前儲存的搜尋結果、最近的搜尋結果和儲存的組態。 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution, explorer 
+summary: 您可以使用「儲存的搜尋」功能表來載入不同的解決方案或組態、此功能可讓您瀏覽至先前儲存的搜尋結果、最近的搜尋結果和儲存的組態。 
 ---
 = 儲存的搜尋功能
 :allow-uri-read: 

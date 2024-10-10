@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: subscribing-to-components.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
 summary: 您可以訂閱您選擇的單一或多個元件。 
 ---
 = 訂閱元件
