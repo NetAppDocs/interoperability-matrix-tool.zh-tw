@@ -1,0 +1,47 @@
+---
+sidebar: sidebar 
+permalink: tools-available-in-toolbox.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Active IQ Interop Advisor, Synergy, BURT, EPIC, LatX, tech, refresh, tool 
+summary: 「工具箱」 * 標籤會顯示一個可用工具清單、分為三個使用者類別。每個工具都會顯示一個連結。 
+---
+= 工具箱中提供的工具
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+「工具箱」 * 標籤會顯示一個可用工具清單、分為三個使用者類別。每個工具都會顯示一個連結。
+
+* 客戶
++
+** Active IQ
+** Config Advisor
+** ConfigEdge
+** Hardware Universe
+** Active IQ 互通顧問
+** NetApp 公用網站
+** NetApp 支援網站
+** 一次收集
+** 統一解析器
+
+
+* 合作夥伴
++
+** Field Portal
+** LatX
+** QuoteEdge
+** SmartSolve
+** 協同效益
+** System Performance Modeler
+** 技術更新工具
+
+
+* NetApp 內部使用
++
+** 敏捷
+** 伯特
+** EPIC
+
+
+

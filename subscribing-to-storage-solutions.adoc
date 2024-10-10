@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: 您可以選擇訂閱單一或多個儲存解決方案。 
+---
+= 訂閱儲存解決方案
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以選擇訂閱單一或多個儲存解決方案。
+
+
+
+== 關於這項工作
+
+訂閱的兩種類型如下：
+
+. * 立即 * ：如果訂閱的解決方案有任何變更、您將會立即收到電子郵件。
+. * 摘要 * ：您將在七天內收到一封累積的電子郵件、其中包含訂閱解決方案的所有變更。
+
+
+
+
+== 步驟
+
+. 按一下標題功能表中的 * 訂閱 * 連結。
+. 在 *Subscription* （訂閱）窗口中，選擇 *Storage Solution* （儲存解決方案）選項卡。
+. 對於您選擇的儲存解決方案、請勾選 * 解決方案狀態更新、相關或不相關類別、或新增或刪除的組態 * 選項的核取方塊。
++
+您將收到下列執行個體的電子郵件：
+
++
+** 解決方案狀態變更或更新時。
+** 從解決方案新增或刪除某些類別時
+** 從解決方案新增或刪除部分組態時
+
+
+. 在 * 頻率 * 欄位中、選取 * 立即 * 或 * 摘要 * 。
++
+
+NOTE: 預設選項為 * 立即 * 。
+
+. 按一下 * 訂閱 * 以訂閱您選擇的解決方案。
++
+
+NOTE: 您可以按一下 * 重設 * 來清除 * 儲存解決方案 * 標籤中的所有選項。
+
+

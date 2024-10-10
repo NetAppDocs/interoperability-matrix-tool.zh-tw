@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: defining-and-entering-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用元件、解決方案或類別的組合來定義搜尋條件。 
+---
+= 定義並輸入搜尋條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用元件、解決方案或類別的組合來定義搜尋條件。互通性對照表工具可讓您新增元件、解決方案或類別、以輸入搜尋條件。您可以使用搜尋文字方塊、解決方案檔案總管或元件檔案總管來輸入搜尋條件。

@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 精簡搜尋條件可讓您探索產品的相容組態。 
+---
+= 使用「精簡搜尋條件」
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+* 精簡搜尋條件 * 可讓您探索產品的相容組態。您可以從不同類別中選取元件、將產生的組態縮小至產品所需的組態。
+
+
+NOTE: 關鍵字 * 機架 * 和 * 刀鋒 * 只會與元件一起顯示在 * 4.x* 中。

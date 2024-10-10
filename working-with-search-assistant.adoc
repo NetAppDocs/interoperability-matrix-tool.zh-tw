@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-assistant.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, search, assistant 
+summary: 您可以使用搜尋助理、根據搜尋條件、提供您探索相容組態的建議。 
+---
+= 使用搜尋助理
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+* 搜尋輔助 * 會根據您輸入的搜尋條件、提供探索相容組態的建議。「 * 搜尋輔助 * 」區段會顯示常用的類別、您可以從中選取要納入搜尋條件的元件。根據您選擇的元件、搜尋助理會顯示相容的元件和解決方案。
+
+如果您輸入的搜尋條件不正確、且互通性對照表工具（ IMT ）找不到任何結果、 * 搜尋輔助 * 會顯示修正搜尋條件的建議。

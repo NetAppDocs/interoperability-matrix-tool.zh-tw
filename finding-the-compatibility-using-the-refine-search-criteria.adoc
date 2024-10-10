@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: finding-the-compatibility-using-the-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在互通性對照表工具（ IMT ）中、「精簡搜尋條件」頁面可讓您探索產品的相容組態。 
+---
+= 使用「精簡搜尋條件」來尋找相容性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在互通性對照表工具（ IMT ）中、「 * 精簡搜尋條件 * 」頁面可讓您探索產品的相容組態。您可以搜尋產品的相容解決方案、元件、類別或組態。選擇適當的元件、即可根據您的需求縮小組態結果。
+
+
+
+== 相容性警告
+
+如果 IMT 終端使用者應用程式 * 精簡搜尋條件 * 頁面上的任何元件彼此相容、則會顯示相容性警告訊息。相容性警告會以紅色反白顯示、並顯示在頁面頂端、其外觀類似下列訊息：
+
+`Please note: you must go to the Results page (next step) to confirm valid configurations.`
+
+如果看到相容性警告、請按一下 * 檢視支援的組態 * 連結、瀏覽至 * 檢視支援的組態 * 頁面。

@@ -1,0 +1,148 @@
+---
+settings:
+  name: Interoperability Matrix Tool
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: zh-tw,us-en,ja-jp,ko-kr,zh-cn,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: 互通性對照表工具總覽
+    url: "/index.html"
+  - title: 執行一般搜尋
+    url: "/performing-common-searches.html"
+    entries:
+    - title: 使用 ONTAP SAN 主機簡化搜尋
+      url: "/working-with-ontap-san-host-solutions-search.html"
+    - title: 使用解決方案搜尋
+      url: "/working-with-solution-search.html"
+    - title: 使用清單和尋找
+      url: "/working-with-list-and-find.html"
+    - title: 使用進階搜尋
+      url: "/working-with-advanced-search.html"
+  - title: 探索互通性對照表工具
+    url: "/exploring-the-interoperability-matrix-tool.html"
+    entries:
+    - title: 使用訂閱
+      url: "/using-subscription.html"
+    - title: 使用通知
+      url: "/using-notifications.html"
+    - title: 儲存的搜尋功能
+      url: "/saved-search-capabilities.html"
+    - title: 使用找不到組態
+      url: "/use-cannot-find-config.html"
+    - title: 工具箱中提供的工具
+      url: "/tools-available-in-toolbox.html"
+    - title: 解決方案報告
+      url: "/solution-reports.html"
+    - title: 使用偏好設定
+      url: "/working-with-preferences.html"
+  - title: 互通性對照表工具搜尋工作流程
+    url: "/interoperability-matrix-tool-search-workflow.html"
+    entries:
+    - title: 使用搜尋助理
+      url: "/working-with-search-assistant.html"
+    - title: 使用搜尋文字方塊
+      url: "/working-with-search-text-box.html"
+    - title: 使用「精簡搜尋條件」
+      url: "/using-refine-search-criteria.html"
+    - title: 尋找適用於您產品的相容主機作業系統
+      url: "/finding-compatible-host-os.html"
+    - title: 尋找適用於您產品的相容 Windows Server 主機
+      url: "/finding-compatible-windows-server.html"
+    - title: 尋找與 HBA 卡的相容性
+      url: "/finding-compatible-with-hba-cards.html"
+    - title: 尋找特定組態、並檢查產品升級或降級支援能力
+      url: "/finding-specific-config-and-checking-for-product-upgrade.html"
+    - title: 處理結果
+      url: "/working-with-results.html"
+    - title: 建立跨產品的端點對端相容性
+      url: "/building-end-to-end-compatibility.html"
+    - title: 檢視原則與準則
+      url: "/viewing-policies-and-guidelines.html"
+    - title: 使用假設條件
+      url: "/using-what-if.html"
+    - title: Active IQ 互通顧問工具可判斷相容性
+      url: "/the-activeiq-interop-advisor-tool.html"
+    - title: 回報問題
+      url: "/reporting-an-issue.html"
+  - title: 定義並輸入搜尋條件
+    url: "/defining-and-entering-the-search-criteria.html"
+    entries:
+    - title: 新增元件至搜尋條件
+      url: "/add-components-to-search-criteria.html"
+    - title: 新增解決方案至搜尋條件
+      url: "/add-solutions-to-search-criteria.html"
+    - title: 將組態名稱新增至搜尋條件
+      url: "/add-config-names-to-search-criteria.html"
+  - title: 使用儲存的準則、最近的搜尋和組態
+    url: "/working-with-saved-criteria-recent-searches-and-config.html"
+    entries:
+    - title: 儲存搜尋條件
+      url: "/saving-the-search-criteria.html"
+    - title: 已儲存的搜尋條件與其他使用者共用
+      url: "/saved-search-criteria-sharing-with-other-users.html"
+    - title: 載入儲存的條件
+      url: "/loading-the-saved-criteria.html"
+    - title: 編輯儲存的條件
+      url: "/editing-saved-criteria.html"
+    - title: 刪除儲存的條件
+      url: "/deleting-saved-criteria.html"
+    - title: 儲存組態
+      url: "/saving-configuration.html"
+    - title: 訂閱組態
+      url: "/subscribing-to-config.html"
+    - title: 取消訂閱已訂閱的組態
+      url: "/unsubscribe-the-subscribed-config.html"
+    - title: 載入儲存的組態
+      url: "/loading-the-saved-config.html"
+    - title: 從儲存的標記移除組態
+      url: "/removing-config-from-saved-tags.html"
+    - title: 刪除標記名稱
+      url: "/deleting-tag-names.html"
+    - title: 儲存最近的搜尋
+      url: "/saving-a-recent-search.html"
+    - title: 檢視最近的搜尋條件
+      url: "/viewing-recent-search-criteria.html"
+  - title: 使用「精簡搜尋條件」來尋找相容性
+    url: "/finding-the-compatibility-using-the-refine-search-criteria.html"
+    entries:
+    - title: "「精簡搜尋條件」頁面可驗證相容性"
+      url: "/refine-serach-page-to-verify-compatibility.html"
+    - title: 將篩選套用至類別
+      url: "/apply-filters-to-categories.html"
+    - title: 修改搜尋條件
+      url: "/modify-the-search-criteria.html"
+    - title: 產生 URL
+      url: "/generate-the-url.html"
+  - title: 瞭解並使用互通性對照表工具結果
+    url: "/understanding-and-using-imt-results.html"
+    entries:
+    - title: 支援的組態搜尋
+      url: "/supported-config-searches.html"
+    - title: 使用資料列比較
+      url: "/using-row-compare.html"
+    - title: 為選取的組態建立端點對端點檢視
+      url: "/create-end-to-end-view-for-selected-config.html"
+    - title: 匯出組態結果
+      url: "/export-config-results.html"
+  - title: 如何使用 If
+    url: "/how-to-use-what-if.html"
+    entries:
+    - title: 選取要升級或降級的元件
+      url: "/select-component-to-upgrade-or-downgrade.html"
+  - title: 訂閱儲存解決方案、類別或元件
+    url: "/subscribing-to-storage-solutions-categories-or-categories.html"
+    entries:
+    - title: 訂閱儲存解決方案
+      url: "/subscribing-to-storage-solutions.html"
+    - title: 訂閱類別
+      url: "/subscribing-to-categories.html"
+    - title: 訂閱元件
+      url: "/subscribing-to-components.html"
+  - title: 疑難排解互通性對照表工具問題
+    url: "/troubleshooting-interoperability-matrix-tool-issues.html"
+  - title: 取得更多資訊
+    url: "/get-more-information.html"

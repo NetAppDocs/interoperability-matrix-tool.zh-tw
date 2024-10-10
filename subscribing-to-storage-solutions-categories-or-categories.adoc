@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions-categories-or-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以訂閱單一或多個儲存解決方案、類別或您選擇的元件。 
+---
+= 訂閱儲存解決方案、類別或元件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以訂閱單一或多個儲存解決方案、類別或您選擇的元件。
+
+「 * 訂閱 * 」標籤可讓您訂閱下列訂閱：
+
+* 訂閱儲存解決方案
+* 訂閱類別
+* 訂閱元件
+

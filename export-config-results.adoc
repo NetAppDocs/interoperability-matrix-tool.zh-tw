@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: export-config-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用「匯出」功能、從「 * 結果 * 」頁面匯出組態結果。 
+---
+= 匯出組態結果
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用 *Export* 功能從 *Results* 頁面導出配置結果。組態結果匯出包含儲存解決方案的詳細資料、搜尋條件、組態詳細資料、以及任何特定警示或其他資訊。您可以將組態結果匯出至 Excel 試算表或 PDF 。
+
+
+
+== 關於這項工作
+
+包含組態結果的 Excel 工作表檔名格式為 `IMT_solutionshortname_timestamp.xls`。
+
+
+
+== 步驟
+
+. 在 * 結果 * 頁面上、從 * 匯出 * 下拉式功能表中、您可以選擇匯出目前的解決方案或組態的端點對端點檢視。
+. 視您的需求而定、按一下 * 目前的解決方案 * 或 * 端點對端點檢視 * 。您最多可以匯出 3000 列。以前、您最多可以匯出 1000 列、但此限制已增加。您應該使用篩選器來減少結果。您也可以選擇使用 * 完整每日匯出 * 功能來取得完整結果。
+. 您可以將 Excel 試算表或 PDF 儲存至本機機器。
+

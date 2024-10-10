@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 從首頁、您可以選擇搜尋元件或載入先前儲存的條件。 
+---
+= 載入儲存的條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+從首頁、您可以選擇搜尋元件或載入先前儲存的條件。
+
+
+
+== 開始之前
+
+您必須已將搜尋條件儲存在首頁上。
+
+
+
+== 關於這項工作
+
+您可以按一下 * 儲存的搜尋 * 來載入您先前儲存的所有條件。
+
+
+
+== 步驟
+
+. 按一下第一頁上的 * 儲存的搜尋 * 。
+. 按一下 * 準則 * 或 * 組態 * 索引標籤、以載入儲存的準則或組態。選取準則名稱之後、準則會載入搜尋準則面板。
+

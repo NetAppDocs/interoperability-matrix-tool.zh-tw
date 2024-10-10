@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: removing-config-from-saved-tags.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以移除或更新不需要的儲存組態。 
+---
+= 從儲存的標記移除組態
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以移除或更新不需要的儲存組態。
+
+
+
+== 關於這項工作
+
+如果您已從結果中儲存組態、您可以在不再需要組態以供參考時將其移除。
+
+
+
+== 步驟
+
+. 按一下黃色星號圖示以移除或更新儲存的組態。
+. 按一下 * 移除 * 以刪除儲存的組態。按一下快顯中的移除按鈕後、星號圖示會從黃色變為白色。
+

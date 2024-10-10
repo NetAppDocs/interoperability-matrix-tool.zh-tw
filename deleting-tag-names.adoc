@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: deleting-tag-names.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以移除標記名稱、刪除儲存的組態。 
+---
+= 刪除標記名稱
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以刪除儲存組態的整個標記。
+
+
+
+== 關於這項工作
+
+您可以移除標記名稱、刪除儲存的組態。當您刪除標記名稱時、與這些標記相關的所有組態也會被刪除。
+
+
+
+== 步驟
+
+. 按一下 * 我的最愛 * 。
+. 從 * 儲存條件 * 對話方塊中、按一下 * 組態 * 索引標籤。
+. 按一下 * 行動 * 欄下的刪除圖示 X 。隨即顯示快顯視窗、詢問您是否要刪除儲存的標記及其相關組態。
+. 按一下 * 是 * 以刪除標記及其相關組態。
+. 按一下 * 否 * 以保留標記及其相關組態。
+

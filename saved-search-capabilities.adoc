@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: saved-search-capabilities.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
+summary: 您可以使用 * 儲存的搜尋 * 功能表來載入不同的解決方案或組態、此功能可讓您瀏覽至先前儲存的搜尋結果、最近的搜尋結果和儲存的組態。 
+---
+= 儲存的搜尋功能
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用 * 儲存的搜尋 * 功能表來載入不同的解決方案或組態、此功能可讓您瀏覽至先前儲存的搜尋結果、最近的搜尋結果和儲存的組態。
+
+「 * 搜尋條件 * 」標籤會保留您儲存的搜尋。在此索引標籤上、您可以共用搜尋或檢視他人與您共用的搜尋。* 組態 * 索引標籤會保存您儲存的組態。在此索引標籤上、您可以共用組態或檢視其他人與您共用的組態。
+
+「最近搜尋 * 」標籤包含從最近搜尋到最舊搜尋的最後 30 組搜尋條件。它也會列出 * 搜尋流程 * ，指出來源頁面，可以是 * 清單與尋找、解決方案總管或進階搜尋 * 。準則會自動儲存。此頁面也會列出已儲存或最近搜尋的 * 上次修改日期 * 。您可以 * 載入 * 從清單中搜尋、以分別檢視條件或組態。

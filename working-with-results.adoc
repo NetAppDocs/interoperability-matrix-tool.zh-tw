@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: working-with-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: OU 可以檢視及匯出符合您產品需求的組態結果。 
+---
+= 處理結果
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以檢視及匯出符合產品需求的組態結果。
+
+從 * 結果 * 頁面、您可以選擇與所選組態相容的相關解決方案、來建置端點對端點檢視。
+
+
+NOTE: 如果您沒有看到預期的結果、請清除篩選條件。

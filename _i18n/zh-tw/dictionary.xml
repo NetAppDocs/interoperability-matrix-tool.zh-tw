@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="ec29b204bdfea025d0a04da9c1bd84d2" category="summary">您可以使用搜尋文字方塊或進階搜尋、將元件新增至搜尋條件。</block>
+  <block id="3edf5099c530f4b5bf9fd5e0777eff7a" category="doc">新增元件至搜尋條件</block>
+  <block id="e646fe8093cae076f04ace90c652382f" category="paragraph">您可以使用搜尋文字方塊或 * 進階搜尋 * 、將元件新增至搜尋條件。</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">關於這項工作</block>
+  <block id="1b8078dfaa97a9198e88328fca0e31bf" category="paragraph">如果您知道要新增至搜尋條件的元件、可以在搜尋文字方塊中輸入元件名稱。如果您不確定要新增至搜尋條件的元件為何、可以使用 * 進階搜尋 * 。</block>
+  <block id="ebc1aa903a0a85396e12956f684427d2" category="paragraph">如果您想要清除搜尋條件中包含的元件、您可以按一下右上角的 * 全部清除 * 。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="b13b1beb16e7b3bbe18ffc3110b849e6" category="list-text">在 Interoperability Matrix Tool 首頁的搜尋文字方塊中輸入元件名稱、即可檢視元件的可能相符項目。</block>
+  <block id="7359bee9ebd609ed80ffd27e90f987c2" category="list-text">按一下 * 新增 * 、將元件納入搜尋條件。</block>
+  <block id="f444123f1ed5a79c79095c2a8283fa3b" category="list-text">按一下 * 新增 * AS 、將多個類別的元件納入搜尋條件。</block>
+  <block id="a0906cb25d9e444b66df8499ea23ebc0" category="list-text">如果您按一下 * 顯示所有相符項目 * 、 IMT 會顯示 * 進階搜尋 * 、您可以使用該搜尋條件加入更多元件。</block>
+  <block id="7a30b55a4c862b36fb2093711f7a6f15" category="list-text">選用。您可以使用 * 進階搜尋 * 將元件加入搜尋條件。</block>
+  <block id="08feac9cb5b89652b139e70810163d12" category="list-text">按一下 * 進階搜尋 * 。</block>
+  <block id="00186b1e3606607157e8569e3c14e11d" category="list-text">在 * 進階搜尋 * 視窗中、從左窗格中選取類別或解決方案。</block>
+  <block id="6150b2c40e2b2d0ed506f05a1aabf090" category="list-text">在右窗格中、識別要新增至搜尋條件的元件、然後按一下 * 新增 * 。</block>
+  <block id="2d657e93aaa732cc222a1272267fe78f" category="list-text">在 * 進階搜尋 * 視窗中輸入關鍵字。</block>
+  <block id="da3e1eecdb94e4db3eb9515e82a18d50" category="paragraph">您可以啟動關鍵字作為搜尋選項。如果已啟動、您可以使用與這些資料列相關聯的關鍵字來搜尋一或多個資料列。您也可以使用 * 進階搜尋 * 視窗中的搜尋文字方塊來搜尋特定元件。若要移除使用 * 進階搜尋 * 新增的元件、您可以按一下右窗格中的 * 移除 * 。</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="section-title">結果</block>
+  <block id="347d888cba284ec87f2267c0cacea73f" category="paragraph">當您將元件納入搜尋條件時、元件會顯示在右窗格的 * 搜尋條件 * 下。</block>
+  <block id="c87faeee80031f0a604ec5b1fef2d9dc" category="summary">您可以使用搜尋文字方塊、將組態名稱新增至搜尋條件。</block>
+  <block id="19612440ad579d0845fc77c245ab8bf5" category="doc">將組態名稱新增至搜尋條件</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="section-title">開始之前</block>
+  <block id="544b4307f9b18bdca5c80d148e5534dc" category="paragraph">您必須擁有組態名稱詳細資料、才能搜尋相容的組態。例如、 20150316-114603946 是組態名稱。</block>
+  <block id="c5f08056722017680adcbcbc5ac47db4" category="list-text">在搜尋方塊中、輸入組態名稱以檢視可能的相符項目。</block>
+  <block id="fc30ed61651dd02acb0d91c669eda8b8" category="list-text">按一下 * 新增 * 、將組態名稱納入搜尋條件。</block>
+  <block id="6c1d3086557acbaa29d71c4f5d66fe99" category="summary">您可以使用搜尋文字方塊或解決方案搜尋、將解決方案新增至搜尋條件。</block>
+  <block id="f2dd2f0f8b0cf1eb92604fcf3246388f" category="doc">新增解決方案至搜尋條件</block>
+  <block id="21f4f2c603c6a9d7c6b8eca3b0f72bf9" category="paragraph">您可以使用搜尋文字方塊或 * 解決方案搜尋 * 、將解決方案新增至搜尋條件。</block>
+  <block id="c3b8a602c72ab1da1a288b28a3d303c9" category="paragraph">如果您知道要新增至搜尋條件的特定解決方案、您可以在搜尋文字方塊中輸入解決方案名稱。如果您不確定要新增至搜尋條件的解決方案、可以使用 * 解決方案搜尋 * 。</block>
+  <block id="19d0ca12a0d83c4421882a1980ac30ac" category="paragraph">如果您想要清除搜尋條件中包含的解決方案、您可以按一下右上角的 * 全部清除 * 。</block>
+  <block id="e1103722ec2e10b538810bbb7f3c912f" category="list-text">在互通性對照表工具首頁的搜尋文字方塊中輸入解決方案名稱、以檢視可能的相符項目。</block>
+  <block id="0e839b0868b1f907c508aed01aedcd6d" category="list-text">按一下 * 新增 * 、將解決方案納入搜尋條件。</block>
+  <block id="9c71399453218b126316cfa8c158e22b" category="list-text">選用。您可以使用 * 解決方案搜尋 * 來納入搜尋條件的解決方案。</block>
+  <block id="714eaf61d8f2b023051a8d100c238594" category="list-text">按一下 * 解決方案搜尋 * 。</block>
+  <block id="fd272e8e969700a7df504173f6c94217" category="list-text">在 * 解決方案搜尋 * 欄位中、找出要新增至搜尋條件的解決方案、然後按一下 * 新增 * 。</block>
+  <block id="b99bbb0f522e170d357820debbcc41de" category="list-text">如有需要、您可以啟用「 * 需要包括 PVR 、 EOS* 和 * 過時組態 * 」核取方塊。此核取方塊包含產品差異要求、版本支援結束、以及結果中的過時項目。</block>
+  <block id="05f717f2635fbac040f4b9dcfccec9fa" category="paragraph">您可以使用 * 解決方案搜尋 * 視窗中的搜尋文字方塊來搜尋特定的解決方案。若要移除使用 * 解決方案搜尋 * 新增的解決方案、請按一下上方窗格中的 * 移除 * 。</block>
+  <block id="998175082912beb021f4284c543f794b" category="paragraph">當您納入搜尋條件的解決方案時、解決方案會顯示在 * 搜尋條件 * 下的右窗格中。</block>
+  <block id="3dcfd6a4c3a84e20a59a4cf1daf54f63" category="summary">在「精簡搜尋條件」頁面中、您可以從不同類別中選取元件來套用篩選條件。套用篩選條件後、即可將元件新增至搜尋條件、並縮小組態結果的範圍。</block>
+  <block id="2da751b1ae9cfbd7a565d0aa3303ac08" category="doc">將篩選套用至類別</block>
+  <block id="8bd3f1f2926b69029497fe1b18c914e4" category="paragraph">在 * 精簡搜尋條件 * 頁面中、您可以從不同類別中選取元件來套用篩選條件。套用篩選條件後、即可將元件新增至搜尋條件、並縮小組態結果的範圍。</block>
+  <block id="54fedbd4c5d464f56d5c258fa8e8fd14" category="list-text">根據您的需求、從 * 精簡搜尋條件 * 頁面上的所需類別中選取元件。在每個類別中、您可以搜尋特定元件、然後選取所需的元件。</block>
+  <block id="aff5c57752a05d09bdc15021f4a2af4d" category="list-text">* 選用 * ：從不同類別中選取多個元件、以縮小組態結果的範圍。</block>
+  <block id="5869ca93f6c3b93fcee21a0770464545" category="paragraph">視所選元件的相容性而定、類別中可能無法使用部分元件。</block>
+  <block id="7212ca08c31821eeb6496edfc72d63ba" category="summary">您可以使用互通性對照表工具、建立跨產品的端點對端相容性檢視。</block>
+  <block id="515a17a72e6cee25fbb2699551ba7700" category="doc">建立跨產品的端點對端相容性</block>
+  <block id="aadfda839bc81dc1282d85593e6e0a3c" category="paragraph">以下顯示工作流程：</block>
+  <block id="6ccc9c65ba8ce434745b373d4ce23f37" category="image-alt">pg17 IMT</block>
+  <block id="a8f2dd2e23ee10cc8a8bfc5da30ff0bd" category="summary">互通性對照表工具可讓您選取與組態相容的相關解決方案、為特定組態建立端點對端點檢視。</block>
+  <block id="4eb2dbe38d0667d97ff883758794aef2" category="doc">為選取的組態建立端點對端點檢視</block>
+  <block id="b531abe83825777dd1bd8297e14149d2" category="paragraph">互通性對照表工具可讓您選取與組態相容的相關解決方案、為特定組態建立端點對端點檢視。您可以使用 * 結果 * 頁面中的 * 建置端點對端點檢視方式 * 功能來建立組態的端點對端點檢視。</block>
+  <block id="821e75721b7400aaba452b6077fc4f9d" category="paragraph">您只能從 *Result* 頁面為特定組態建立端點對端點檢視。</block>
+  <block id="243924ae17fabcf9e6324038cc3bd5d4" category="list-text">在特定組態的 * 結果 * 頁面中、按一下 * 建立端點對端點檢視方式 * 下拉式清單。</block>
+  <block id="661028c95d63729eae5d9b9abe54976a" category="list-text">從下拉式清單中、選取列出的與該特定組態相容的必要解決方案。與該特定組態不相容的解決方案會呈現灰色。</block>
+  <block id="2bfe745d3dacd250f9e68c48fda0cc21" category="list-text">IMT 會在「 * 結果 * 」頁面中顯示新的索引標籤、指出修改後的組態。根據您的需求、您可以選擇使用 * 建置端點對端點檢視搭配 * 功能來納入其他解決方案、或匯出組態。</block>
+  <block id="d3aaebbcf4e46bb4150c9e07bd28251b" category="summary">您可以使用元件、解決方案或類別的組合來定義搜尋條件。</block>
+  <block id="8ee38e0305ffbadeb48d844528a6e7cb" category="doc">定義並輸入搜尋條件</block>
+  <block id="be72c3e3e5768cf0f9e63fe8ce0ec615" category="paragraph">您可以使用元件、解決方案或類別的組合來定義搜尋條件。互通性對照表工具可讓您新增元件、解決方案或類別、以輸入搜尋條件。您可以使用搜尋文字方塊、解決方案檔案總管或元件檔案總管來輸入搜尋條件。</block>
+  <block id="454aa33e761b57fe07fceba1c97a8a1c" category="summary">您可以刪除儲存的搜尋條件。</block>
+  <block id="29a06b84980eab3ce920edf40d8d5109" category="doc">刪除儲存的條件</block>
+  <block id="c2a4313020cfae3ae79389abd1405490" category="paragraph">您必須擁有儲存條件的名稱、才能刪除儲存的條件。</block>
+  <block id="7ea38ac86619e23b998d43e9300de6f4" category="list-text">按一下 * 行動 * 欄下的刪除圖示 * X* 。隨即顯示快顯視窗、詢問您是否要刪除儲存的條件。</block>
+  <block id="e60b7af6b78397b0ce0994c4015a587d" category="list-text">按一下 * 是 * 以刪除儲存的條件。</block>
+  <block id="4df02438231eca964f432488d557b6f5" category="list-text">按一下 * 否 * 以保留已儲存的條件。</block>
+  <block id="79726b4c9f899e56eafd4512d22caacb" category="summary">您可以移除標記名稱、刪除儲存的組態。</block>
+  <block id="bf4001c078f5dca25c6479d2b9431402" category="doc">刪除標記名稱</block>
+  <block id="fb5a9d2c1fe276643cc1aa4fdebbd902" category="paragraph">您可以刪除儲存組態的整個標記。</block>
+  <block id="4608e0dce52112ef1d1bd967e80b2d38" category="paragraph">您可以移除標記名稱、刪除儲存的組態。當您刪除標記名稱時、與這些標記相關的所有組態也會被刪除。</block>
+  <block id="5062ba1d716aef6e001b96cddc22ed74" category="list-text">按一下 * 我的最愛 * 。</block>
+  <block id="a07f03fd67353527209dd024831a83d2" category="list-text">從 * 儲存條件 * 對話方塊中、按一下 * 組態 * 索引標籤。</block>
+  <block id="972790e194f7d2d4e41a0b2a925ab4a5" category="list-text">按一下 * 行動 * 欄下的刪除圖示 X 。隨即顯示快顯視窗、詢問您是否要刪除儲存的標記及其相關組態。</block>
+  <block id="aad967fedaa6422cd5835bf24465b610" category="list-text">按一下 * 是 * 以刪除標記及其相關組態。</block>
+  <block id="905b6080bfd6bbca59e95aff6f95cae4" category="list-text">按一下 * 否 * 以保留標記及其相關組態。</block>
+  <block id="3b7663c6488dd7497c4f7d3f79a8b572" category="summary">您可以編輯先前儲存的搜尋條件。</block>
+  <block id="e1045688150584d0415262e4c5db2f62" category="doc">編輯儲存的條件</block>
+  <block id="f38842a1b7f6007a12c6d273c814dadd" category="paragraph">您可以編輯先前儲存的搜尋條件。您可以將任何新元件新增至儲存的條件、或從現有的儲存條件中移除元件。</block>
+  <block id="01b6291996d2daf375eb9bc01feae0e1" category="paragraph">您必須載入已儲存的條件才能編輯。</block>
+  <block id="4e102708baf37507d21f0447c94ee3bc" category="list-text">載入儲存的條件、然後按一下儲存的條件連結。</block>
+  <block id="03d162f9e1a3d030cb5f634bba50c3dc" category="list-text">按一下 * 精簡搜尋條件 * 連結。您可以新增或移除已儲存準則的準則。</block>
+  <block id="8429e5c7fba655ffa4aa171da613819d" category="summary">互通性對照表工具（ IMT ）是一種網路型應用程式、可用於搜尋 NetApp 產品的相容性和支援組態。</block>
+  <block id="65feb00ad7f6ce9dd8b3acfd443cba40" category="doc">探索互通性對照表工具</block>
+  <block id="8d1d531715a92e9a9357a3f3a1c54f69" category="paragraph">您可以執行下列工作：</block>
+  <block id="838d52c510b3a7c971d00f7eb0b43d01" category="cell">使用此 ...</block>
+  <block id="32fbba6dfc90536fe1616258f0747518" category="cell">您可以執行這些工作...</block>
+  <block id="7b19b37e7fc3dfe3c3e1ad5b84c7f565" category="cell">首頁</block>
+  <block id="80bea2be0d3ad5e38297adac8974aa4f" category="cell">使用 * 簡化的 ONTAP SAN 主機、解決方案搜尋、清單與尋找 * 及 * 進階搜尋 * 進行搜尋、以檢視相容性。提供 * 訓練 * 影片和 * Active IQ 互通顧問 * 的直接連結。</block>
+  <block id="cf4551d7b1bd3de8dfd62bdcc6e70c2f" category="cell">簡化 ONTAP SAN 主機</block>
+  <block id="60fbb95c37f0a079f6fa8e84e18325bf" category="cell">檢查 ONTAP 版本和 Flash/Fabric 儲存版本組合的相容性。</block>
+  <block id="d8214a5e3a3f89026f9e128a9947c838" category="cell">解決方案搜尋</block>
+  <block id="8347ea1ca5f67e9f27579e43050128f4" category="cell">搜尋解決方案並新增條件以檢查相容性。</block>
+  <block id="c1fe3261108a6e6d19adbd4b06e983ca" category="cell">列出並尋找</block>
+  <block id="47dc8a6eb13d5fc80c7ddf178846b883" category="cell">瞭解元件在各種組態和解決方案中的使用位置。</block>
+  <block id="cd4e65d959c181a6c42b57f47e56e716" category="cell">進階搜尋</block>
+  <block id="f1bc039f73889af1f8c8e3a4f6103d4d" category="cell">搜尋元件並新增條件以檢查相容性。</block>
+  <block id="4ca2c509994c2776d0880357b4e8e5be" category="cell">訂閱</block>
+  <block id="36fb8ca6aa944624dd0cdddb3b56d3e6" category="cell">檢視 * 您先前訂閱的儲存解決方案、類別或元件 * 組態。</block>
+  <block id="a274f4d4670213a9045ce258c6c56b80" category="cell">通知</block>
+  <block id="9221dc792411a0ea421419adc679b8d2" category="cell">檢視 IMT 更新通知。</block>
+  <block id="2b0c8dd29b8b84cc77b5cb3c21399a9a" category="cell">儲存的搜尋</block>
+  <block id="93da16e00ed47a17a22590f0fa1beb9a" category="cell">開啟先前儲存的搜尋。</block>
+  <block id="b79fae1e80742757dc061d411aeb4587" category="cell">找不到組態</block>
+  <block id="90015d541decc5071ffdbc3ae63cfbc2" category="cell">用於報告您在 IMT 中找不到的組態。</block>
+  <block id="867748323b222a2e63666df4061a041b" category="cell">工具箱</block>
+  <block id="0cebc24da73d54eee7400905a4684825" category="cell">視您身為 * 客戶、合作夥伴或內部 NetApp * 員工的角色而定、存取工具。</block>
+  <block id="c91c7b93c28cd18741b71f727ee81ee3" category="cell">報告</block>
+  <block id="18c669584ed4674d6aaf2cc2085e0c43" category="cell">使用 * 完整每日匯出 * 報告匯出解決方案的組態、或使用 * 元件 EOVS 摘要 * 報告匯出版本結束支援元件。</block>
+  <block id="782f86dab3644181f614dc64b9708b07" category="cell">偏好</block>
+  <block id="8d6a407792142d332c838476468f3434" category="cell">建立最愛 * 清單和尋找 * 類別的清單。這些類別會出現在 * 清單和尋找 * 中 * 元件檔案總管 * 的頂端。</block>
+  <block id="6a26f548831e6a8c26bfbbd9f6ec61e0" category="cell">說明</block>
+  <block id="21b1f67b9d532aeefe938fbfbd201669" category="inline-link">NetApp 學習中心</block>
+  <block id="31c275477b920694cd24e6a1ed45d1d4" category="cell">按一下 * 新增功能 * 以檢視 IMT 的最新版本資訊。按一下 * 線上說明 * 以檢視此互通性對照表工具說明集。單擊 * Training * （ * 培訓 * ）觀看有關如何使用 Interoperability Matrix Tool （互操作性表工具）的視頻，請查看<block ref="a8b86e50f810c84420a9f4a1ca1c2aaf" category="inline-link-rx"></block>。若要回報問題或提供互操作性對照表工具的意見反應、請按一下 * 回報問題 * 連結。按一下 * 常見問題集 * 以檢視關於 IMT 的常見問題集與解答。單擊 * Data Initiativ* （如果可用）查看 IMT 數據庫的計劃清理。按一下 * 關於 IMT * 以檢視版本和版權聲明。按一下 * 已知問題 * 以查看產品中已報告和未解決的錯誤。</block>
+  <block id="ebc93e917d94e9d73100eed072d35153" category="cell">參加導覽</block>
+  <block id="83be70b7054326cbcc3cee029eb8165e" category="cell">歡迎參加導覽行程、瞭解 IMT 的相關資訊。</block>
+  <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
+  <block id="3546181752f7fdc0791222b6f6046888" category="cell">按一下以 * 登出 * IMT 。</block>
+  <block id="2500925cc553d5478036c23a243f8242" category="admonition">如果您調整視窗大小、所有頁面都會回應。</block>
+  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">您可以使用「匯出」功能、從「 * 結果 * 」頁面匯出組態結果。</block>
+  <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">匯出組態結果</block>
+  <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">您可以使用 *Export* 功能從 *Results* 頁面導出配置結果。組態結果匯出包含儲存解決方案的詳細資料、搜尋條件、組態詳細資料、以及任何特定警示或其他資訊。您可以將組態結果匯出至 Excel 試算表或 PDF 。</block>
+  <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">包含組態結果的 Excel 工作表檔名格式為<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>。</block>
+  <block id="7c58248a593dd85ba9d14adda2af0325" category="list-text">在 * 結果 * 頁面上、從 * 匯出 * 下拉式功能表中、您可以選擇匯出目前的解決方案或組態的端點對端點檢視。</block>
+  <block id="66091295deef68a4da160f714733d1ac" category="list-text">視您的需求而定、按一下 * 目前的解決方案 * 或 * 端點對端點檢視 * 。您最多可以匯出 3000 列。以前、您最多可以匯出 1000 列、但此限制已增加。您應該使用篩選器來減少結果。您也可以選擇使用 * 完整每日匯出 * 功能來取得完整結果。</block>
+  <block id="b745f43e456fd9c2883fdd9f0d3ee707" category="list-text">您可以將 Excel 試算表或 PDF 儲存至本機機器。</block>
+  <block id="1f5d7f61729ac0ea99e21d432126eac7" category="summary">您可以使用互通性對照表工具來檢視與產品相容的支援主機作業系統。</block>
+  <block id="71d1e250108880b270352884440117ac" category="doc">尋找適用於您產品的相容主機作業系統</block>
+  <block id="dfcf3d00132f60b1f9af426756af39fe" category="image-alt">pg12 IMT</block>
+  <block id="1d2471da896e9e5fab480da3eb4161fb" category="summary">您可以使用互通性對照表工具來檢視產品的相容 Windows Server 主機。</block>
+  <block id="bd3874832b029bd93d2d2f94463ef334" category="doc">尋找適用於您產品的相容 Windows Server 主機</block>
+  <block id="4225b706e93edb73a4180776f639dfe7" category="image-alt">Pg13 IMT</block>
+  <block id="0c2d5226b127fb12ad60a887e5f266b3" category="summary">您可以使用互通性對照表工具來檢視支援的主機作業系統、以進行如 Cisco UCS P81E 卡在 FCoE 上的組態。</block>
+  <block id="f701ebce5644882936dc64dd39c9e75b" category="doc">尋找與 HBA 卡的相容性</block>
+  <block id="cd5bfefb4f335e7277b894d20557e348" category="paragraph">有了 * 簡化的 ONTAP SAN 主機 * 功能、 UI 就能簡化並精簡成三個元件；舊版 UI 中有十三個元件。其餘的十個元件則受到 NetApp 的隱含支援、前提是這些元件受到個別廠商的支援。* 備註 * 和 * 警示 * 是依解決方案分類、並新增至每個結果。</block>
+  <block id="c5cd5334918aca90ae81dbed3fa9af3c" category="paragraph">互通性對照表工具（ IMT ）支援的三個元件為 ONTAP OS 、主機作業系統和傳輸協定。</block>
+  <block id="b17081c5e9cf9e3edc7d38c568fd322d" category="paragraph">您可以使用 IMT 來驗證 ONTAP 的主機作業系統支援能力。</block>
+  <block id="7f8e8bbc7831c49dc122632c2c03c040" category="paragraph">例如、使用下列組態、驗證 Cisco 統一運算系統（ Cisco UCS ）刀鋒伺服器與 ONTAP 的支援能力：</block>
+  <block id="903b1963227fde2db30556c33f131e19" category="paragraph">* Cisco UCS 刀鋒伺服器組態範例 *</block>
+  <block id="a1b6188d218e5bddeebed696cbf3bae3" category="list-text">ONTAP 作業系統： 9.13.</block>
+  <block id="db5c940963f3979029b7899c10d971a8" category="list-text">主機作業系統： Red Hat Enterprise Linux 9.2</block>
+  <block id="1c0367b44b8dbceb306ecc16ca826d83" category="list-text">伺服器機型： Cisco UCS B200 M6 刀鋒伺服器</block>
+  <block id="fbb66a2116e69bb488ef282fee889dcc" category="list-text">主機匯流排介面卡（HBA）</block>
+  <block id="94feebc966033912ff0490b818801a4b" category="list-text">機型： Cisco UCSSB-MLOM-40G-04 ： Cisco UCS 1440 虛擬介面卡</block>
+  <block id="1597865539e82b0429e32ba1a84643bc" category="list-text">驅動程式版本： 1.6.0.53 fnic</block>
+  <block id="7ef571fcd3081fe3d4f3281411fa4ccd" category="list-text">韌體版本： 5.3(2)</block>
+  <block id="dcb8960d2f325ec47f22259068aba8c8" category="list-text">UCS 伺服器韌體： 5.2 （ 0 ）</block>
+  <block id="b7745ef6a31023a20564a3a8e4acb14c" category="list-text">傳輸協定： FCoE</block>
+  <block id="8cd6f90ffa50a2b2dfe337b908a91c7f" category="paragraph">* 驗證 Cisco UCS 刀鋒伺服器的支援能力 *</block>
+  <block id="4a92a4cf25a34fa4eaffac25ad161bc8" category="list-text">使用 IMT 中的 * ONTAP SAN 主機 Simplified * 功能、確認 ONTAP 9 。 13.1 、 Red Hat Enterprise Linux 9.2 和 FCoE 通訊協定是否列為支援的組態。</block>
+  <block id="97d490040c565812e57790b753f6fb5c" category="list-text">NetApp 支援的 HBA 廠商有 Broadcom 、 Marvell 和 Cisco 。Cisco 包含在支援的介面卡清單中、表示也支援 Cisco 虛擬介面卡（ VIC ）。</block>
+  <block id="897676d58c3f76b10936d3debb7bb161" category="list-text">使用廠商的硬體相容性清單（ HCL ）來驗證 Cisco 「 UCS 硬體與軟體相容性」。如前述伺服器組態清單所述、請確認 Red Hat Enterprise Linux 9.2 支援 HBA 介面卡機型、 UCS 伺服器韌體版本、以及 HBA 驅動程式和韌體版本。</block>
+  <block id="7353700d57c9a48ad214ff004b566fc8" category="summary">確定 ..</block>
+  <block id="1b86a9df2cffd5bd4c8a027852a50f51" category="doc">尋找特定組態、並檢查產品升級或降級支援能力</block>
+  <block id="53045d2f9f252f0aa1fbe1c934b812cc" category="paragraph">您可以使用互通性對照表工具來檢視特定組態、以升級或降級產品組態中的元件。</block>
+  <block id="aae161f20246806ea2d8edf77f1cd2ed" category="image-alt">檢視要升級或降級之特定組態的工作流程</block>
+  <block id="ddb380061e50fe0b9c27047f8c07bb45" category="summary">在互通性對照表工具（ IMT ）中、「精簡搜尋條件」頁面可讓您探索產品的相容組態。</block>
+  <block id="82625324f206dd07579432d92f280602" category="doc">使用「精簡搜尋條件」來尋找相容性</block>
+  <block id="661e70dad5348cd369ab703d47b4ee48" category="paragraph">在互通性對照表工具（ IMT ）中、「 * 精簡搜尋條件 * 」頁面可讓您探索產品的相容組態。您可以搜尋產品的相容解決方案、元件、類別或組態。選擇適當的元件、即可根據您的需求縮小組態結果。</block>
+  <block id="3e281bb9c9ea48af83b90fc55763535a" category="section-title">相容性警告</block>
+  <block id="3089ec2ecc746b837909fb0f8891a7de" category="paragraph">如果 IMT 終端使用者應用程式 * 精簡搜尋條件 * 頁面上的任何元件彼此相容、則會顯示相容性警告訊息。相容性警告會以紅色反白顯示、並顯示在頁面頂端、其外觀類似下列訊息：</block>
+  <block id="2551865ad6ce7e6f5e1ec745b09203dc" category="paragraph"><block ref="e9507c6157e22dd28c8b6fe86c5c8286" prefix="" category="inline-code"></block></block>
+  <block id="5da9122ffe67411f6bb966becfc55c68" category="paragraph">如果看到相容性警告、請按一下 * 檢視支援的組態 * 連結、瀏覽至 * 檢視支援的組態 * 頁面。</block>
+  <block id="fc92c1e728dca6d51aee88f427690340" category="summary">在「精簡搜尋條件」頁面中、您可以產生相容性的 URL 。</block>
+  <block id="5cc0277c370ca1c2d5a7d406cc3cbfbe" category="doc">產生 URL</block>
+  <block id="69accc7f3e266d63fbd0e69677876cef" category="paragraph">在 * 精簡搜尋準則 * 頁面中、您可以產生相容性的 URL 。您可以將產生的 URL 內嵌在其他工具中、將其上傳至 NetApp 支援網站、或透過電子郵件加以分享。產生的 URL 可直接上傳至瀏覽器。</block>
+  <block id="f0b23f621e4092613ca29524bc68cbe3" category="list-text">在 * 精簡搜尋準則 * 頁面中、選取要篩選結果的元件。</block>
+  <block id="fcd387b27a07e82e1794cf788dd97515" category="list-text">按一下 * 產生 URL* 。</block>
+  <block id="fed2cbfa37c3d422304ffa67ef9fad09" category="list-text">從「 URL 共用」視窗複製 URL 。</block>
+  <block id="8ed9eb3b74971c91c758fddb1cb97292" category="list-text">按一下「*確定*」。</block>
+  <block id="6242808d4dbdafbb3cb8ed26c467f473" category="admonition">您可以使用已產生的 URL 。URL 會顯示您已新增至搜尋條件的元件和解決方案。</block>
+  <block id="b2869ebd73bb749c2a70fb53b7fb839a" category="summary">您可以透過各種資源、文件和論壇取得協助並尋找更多資訊。</block>
+  <block id="bf07f432276ee2fe7e55f9ea12c2ba5a" category="doc">取得更多資訊</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="inline-link">文件</block>
+  <block id="e68bf38d69c46a5bdcb0ed45d61f1a86" category="list-text"><block ref="1e10b7111669dab6afefe8316896b856" category="inline-link-rx"></block>–此版本與先前版本的版本資訊與指南。</block>
+  <block id="ce279515f15bf629655dc687c280f365" category="inline-link">YouTube 上的 NetApp 訓練</block>
+  <block id="446b148c7e08d603df3b2e6f260e2fee" category="list-text"><block ref="30896e55faaf8126310f6a705c902e48" category="inline-link-rx"></block>– NetApp 影片。</block>
+  <block id="ed08ca4078374e76c6df3f1999af7274" category="inline-link">NetApp資源</block>
+  <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block>–技術報告和知識庫文章。請考慮搜尋「 IMT 」。</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">NetApp社群</block>
+  <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block>– NetApp 產品與解決方案論壇。請考慮搜尋「 IMT 」。</block>
+  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">* If 的功能 * 可讓您探索所有可能支援的組態。</block>
+  <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">如何使用 If</block>
+  <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">* If 的功能 * 可讓您探索所有可能支援的組態。您可以使用 * If * What I* 功能來升級或降級所選組態中的元件、並探索相容性。若要在升級或降級元件之後檢視所有支援的組態、您可以使用 * 匯出 * 選項、將組態詳細資料匯出至 Excel 工作表或 PDF 。</block>
+  <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">在「 * 假設」視窗中選取要升級或降級的特定元件之後、您可以檢視所選元件是否與組態中的其他元件相容、或是否沒有相符的組態。如果沒有相符的組態、您必須考慮擴充初始條件以導出更多組態。</block>
+  <block id="3ca94b019ebcf195609637412cfbecb4" category="paragraph">「假設」視窗分成兩個窗格：</block>
+  <block id="d1a2c2e0873305b3f10930e78a06d693" category="list-text">上方窗格會指出所選元件是否符合任何有效組態。</block>
+  <block id="3d6e9b4d2325d777a80c6ea6e8f25894" category="list-text">下方窗格會顯示各種類別和個別元件版本。</block>
+  <block id="431586057fcea1248f629ef709d196af" category="paragraph">如果找不到所需的組態、請按一下 * 意見反應 * 回報問題。</block>
+  <block id="1ed0e75eff9abebaaab606a416c58707" category="inline-link-macro">回報問題</block>
+  <block id="baf93ba448f7254b708aa5fc23a8e495" category="paragraph">如需更多資訊、請參閱 <block ref="f96d8bc56daadf09d7c41f46d3821c84" category="inline-link-macro-rx"></block>。</block>
+  <block id="149adda509afef347898a0b709d39e7d" category="summary">NetApp 互通性對照表工具（ IMT ）是網路型應用程式。IMT 可讓您搜尋符合 NetApp 所指定標準和要求的 NetApp 產品和元件組態。</block>
+  <block id="158b0cd8e98337e4dafd6291bed45568" category="doc">互通性對照表工具總覽</block>
+  <block id="37e479b45d451661f22614d5a8e413b7" category="paragraph">NetApp 互通性對照表工具（ IMT ）是網路型應用程式。IMT 可讓您搜尋符合 NetApp 所指定標準和要求的 NetApp 產品和元件組態。IMT 維護組態的儲存庫、並提供使用者友好的介面、方便存取支援的組態資訊。</block>
+  <block id="3b38d533805bb323909418ba2bdd311b" category="paragraph">您可以使用下列其中一種標準瀏覽器、從 NetApp 支援網站存取 IMT ：</block>
+  <block id="950ec0214988f2cee4280a4a29075cf3" category="list-text">Windows：</block>
+  <block id="22b5d218c1d742f76ac7a6d9690b1bb1" category="list-text">Chrome N 和 N-1</block>
+  <block id="8fdfc20ed5c81ca0f5bd75843bc1899a" category="list-text">Mozilla Firefox N 和 N-1</block>
+  <block id="d6a3c61f34bc8dbe9c017171f37c97f8" category="admonition">N 代表最新版本。</block>
+  <block id="472cd12a712c63a42fa8fb5f161318c6" category="list-text">Internet Explorer 11 和 Edge</block>
+  <block id="ef4abdacddb3a269e8a751b134e32921" category="list-text">Mac ：</block>
+  <block id="afd78709ed07b4142a023acd9db8eaa6" category="list-text">Safari 8 及更新版本</block>
+  <block id="1846c0f46567843e737d1a67e8731078" category="admonition">互通性對照表工具接受 URL 連結、並提供標準以簡化特定使用案例。當您按一下其他工具的連結來開啟 IMT 時、您可能會進入遊樂場頁面、而非首頁、並預先選擇解決方案和某些元件。</block>
+  <block id="7fff391a913df6fa81e6a758bd481434" category="section-title">開始使用互通性對照表工具</block>
+  <block id="cb547853adc31f1f9620479aab3d8aa3" category="paragraph">互通性對照表工具（ IMT ）是一種網路型應用程式、您可以使用不同的解決方案、組態、元件和類別來搜尋產品的相容性。</block>
+  <block id="f2a8ac65809a63e8e3e6f626c097d1f6" category="paragraph">爲了便於瀏覽和清楚起見，此工具分爲三個頁面： * 輸入條件 * 、 * 優化搜索條件 * 和 * 結果 * 。您必須在第一頁輸入搜尋條件。根據您的搜尋條件、您可以在 * 精簡搜尋條件 * 頁面中檢視產品的相容性。本主題將快速說明如何使用 IMT 。</block>
+  <block id="5ac071492665ed1020665cc1993b0893" category="paragraph">您可以在 * 結果 * 頁面中檢視結果。使用此工具、您可以搜尋元件、進行選擇、建置條件、以及檢視產品的相容性。</block>
+  <block id="1b290eba2d0ec5102577653f0de1de81" category="paragraph">您可以完成下列工作：</block>
+  <block id="a6b3261fc23a937b32e2123b3ed6ed68" category="cell">使用此頁面 ...</block>
+  <block id="6f12bd346c696b73d9091ca4f240a027" category="cell">輸入條件</block>
+  <block id="0e724ecf725f7b1d5cc2242f67f9b034" category="cell">輸入搜尋條件、然後搜尋解決方案、元件、組態和類別。如果您知道解決方案名稱、可以使用 * ONTAP SAN 主機簡體 * 或 * 解決方案搜尋 * 功能來搜尋解決方案。如果您知道元件名稱、可以使用 * 清單和尋找 * 或 * 進階搜尋 * 功能來搜尋元件。</block>
+  <block id="cde0dc1f79281084f435d54a430ae20c" category="cell">精簡搜尋條件</block>
+  <block id="3f723103dfc7576cf48548094e740f8b" category="cell">針對產品的相容解決方案、元件、組態和類別、找出更明確的是或否答案。您可以選擇使用 *Change Criteria * 或 * 嘗試不同的方法 * 來變更您在第一頁輸入的初始條件。將篩選條件套用至每個類別的元件、以找出最適合您產品的組態。使用 *Clear All* 或 *undo* 圖示移除您套用的篩選條件。</block>
+  <block id="fd69c5cf902969e6fb71d043085ddee6" category="cell">結果</block>
+  <block id="58c512e9361b60acf4f063951883775b" category="cell">按一下 * 繼續 * 、 *&gt;* 圖示或第二頁的分割器後、請檢視 * 結果 * 頁面。您可以檢視組態的元件、附註和歷程詳細資料、排序搜尋結果、檢視您選取的搜尋準則、修改搜尋準則、篩選搜尋結果、以及將搜尋結果匯出至 Microsoft Excel 工作表。</block>
+  <block id="86f21c73bb0c1d0d4e879859c545e31b" category="section-title">使用互通性對照表工具首頁</block>
+  <block id="3b5ac8d03f9f6310e122c721b88f6864" category="paragraph">互通性對照表工具（ IMT ）首頁可讓您使用 * 簡化的 ONTAP SAN 主機 * 、 * 解決方案搜尋、清單與尋找 * 、以及 * 進階搜尋 * 。</block>
+  <block id="8aa2be3c8541db53312080d6b7af39bf" category="paragraph">您可以使用 * 設定為預設 * 星號、將這些選項中的任何一個設為預設搜尋。當您按一下任一選項時、相關頁面會開啟以探索相容的組態。</block>
+  <block id="318d41b50563b5f3d2ab4c315f1a8613" category="admonition">若要尋找先前儲存的搜尋、您可以使用 * 儲存的搜尋 * 功能表。如果您找不到所需的組態、請按一下「 * 找不到組態？ * 」功能表、然後回報問題。</block>
+  <block id="61227a4a707d7c445d63c926c6891462" category="summary">開始使用互通性對照表工具時、請務必瞭解使用工作流程所說明的一些一般使用案例。</block>
+  <block id="2a85b4097b57bbd38dd15aa7ab34a80d" category="doc">互通性對照表工具搜尋工作流程</block>
+  <block id="d73b0da3447a7b3c3de838cc2d8f3705" category="summary">您可以從首頁載入先前儲存的組態。您可以檢視已儲存組態的標籤名稱、說明、解決方案名稱。</block>
+  <block id="aeb4f40f23d25ac709dfd1830f05a3c6" category="doc">載入儲存的組態</block>
+  <block id="43749eb5a2d09f8f8e3529b59e2f3628" category="paragraph">您可以尋找為該特定組態指定的名稱來載入特定組態。</block>
+  <block id="d5bcfba6484fd0f51d0c051578a06c55" category="paragraph">如果您已儲存組態、您可以稍後隨時載入。</block>
+  <block id="0daf919eb8e41b5dc97a4af2ef833bf5" category="list-text">在首頁上、按一下 * 儲存的搜尋 * 選項以載入儲存的組態。</block>
+  <block id="a181166aa1053e21a6817485b8a62953" category="list-text">在 * 儲存的組態 * 標籤中、按一下組態。</block>
+  <block id="1e72ee87bb0ae1884d33e091d24de098" category="list-text">將滑鼠游標移至儲存的組態上方、即會顯示組態名稱。</block>
+  <block id="047c69a510c16702380165aebda65688" category="list-text">按一下 * 標籤名稱 * 並載入組態。</block>
+  <block id="0532f3e0c0e98b366c17c05b7808fb2d" category="list-text">按一下 * 檢視詳細資料 * 連結、前往「結果」頁面。</block>
+  <block id="e8d00dad529b9352fc56fd8fa9796fc6" category="summary">從首頁、您可以選擇搜尋元件或載入先前儲存的條件。</block>
+  <block id="3ad141b1cd2afe19f2415bd41fab474d" category="doc">載入儲存的條件</block>
+  <block id="0005c57f76ba9e8ea662b5ef32a2de85" category="paragraph">您必須已將搜尋條件儲存在首頁上。</block>
+  <block id="0819aa555edc864acfa72a53c486c126" category="paragraph">您可以按一下 * 儲存的搜尋 * 來載入您先前儲存的所有條件。</block>
+  <block id="0dfb7116d87298f76b2e085602e4502a" category="list-text">按一下第一頁上的 * 儲存的搜尋 * 。</block>
+  <block id="21fa2b596d8adeb516e52bce39d9c334" category="list-text">按一下 * 準則 * 或 * 組態 * 索引標籤、以載入儲存的準則或組態。選取準則名稱之後、準則會載入搜尋準則面板。</block>
+  <block id="1efc14e81baa9059e46f78473ef543aa" category="summary">在「精簡搜尋條件」頁面中、您可以選擇修改搜尋條件、將解決方案、元件或類別新增至條件。</block>
+  <block id="1dc11ad6ca9ec5fdcdb1a9cf379f5504" category="doc">修改搜尋條件</block>
+  <block id="ce17a27bd8d11f30bd723bd5b488d63e" category="paragraph">您可以從「 * 精簡搜尋條件 * 」頁面、選擇修改搜尋條件、將解決方案、元件或類別新增至條件。</block>
+  <block id="ae5a975594bcd4ddf1dfd63c649f56d2" category="list-text">在 * 精簡搜尋準則 * 頁面中、按一下 * 變更準則 * 。</block>
+  <block id="e0636dc5974ea34440665a409c5f15e1" category="list-text">在搜尋條件頁面中、您可以使用搜尋文字方塊新增解決方案、元件或類別。</block>
+  <block id="1697e862953ccbbd56111e77eb57c685" category="list-text">按一下 * 下一步 * 、在 * 精簡搜尋條件 * 頁面中檢視相容的組態。</block>
+  <block id="1463523d7e5042eac98a0ddebe5aa86c" category="summary">使用互通性對照表工具（ IMT ）首頁上的卡片執行一般搜尋、包括簡化的 ONTAP SAN 主機、解決方案搜尋、清單和尋找、以及進階搜尋。</block>
+  <block id="3bdc568a8bcd812e1b8ceca566581918" category="doc">執行一般搜尋</block>
+  <block id="3af0043e9a42dbcb3994fe0a434a71ce" category="paragraph">使用互通性對照表工具（ IMT ）首頁上的卡片執行一般搜尋、包括 * 簡化的 ONTAP SAN 主機 * 、 * 解決方案搜尋 * 、 * 清單與尋找 * 、以及 * 進階搜尋 * 。</block>
+  <block id="d067ad360948d10f2d780f075697e18f" category="paragraph">開啟 IMT 時、您會在首頁上看到最常見的搜尋類型：</block>
+  <block id="d502b8e07d27fad00c4965d4647db3a2" category="list-text">* 簡化的 ONTAP SAN 主機 *</block>
+  <block id="3fd79e93f13415c1bdd8b5549bbcaa6b" category="list-text">* 解決方案搜尋 *</block>
+  <block id="74152f0f0743d856ced77dc3f2335ebd" category="list-text">* 列出並尋找 *</block>
+  <block id="f5167a76744a057734881839f6024df8" category="list-text">* 進階搜尋 *</block>
+  <block id="06d26363632e23515632763b195365bf" category="inline-link">訓練影片</block>
+  <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Active IQ 顧問</block>
+  <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">您也可以從首頁觀看<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block>或開啟<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block>。</block>
+  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">互通性對照表工具可讓您從 * 精簡搜尋條件 * 頁面探索產品的相容組態。</block>
+  <block id="784e74992af3834f944fb515f4448bba" category="doc">「精簡搜尋條件」頁面可驗證相容性</block>
+  <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">互通性對照表工具可讓您從 * 精簡搜尋條件 * 頁面探索產品的相容組態。您可以將本頁的組態結果縮小至產品所需的組態。</block>
+  <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">只有當您輸入的條件具有支援的組態時、您才能從初始搜尋條件頁面瀏覽至 * 精簡搜尋條件 * 頁面。「 * 精簡搜尋條件 * 」頁面分為兩個窗格：</block>
+  <block id="bff3de2c9fbca70fdd304c24e0c96f1e" category="list-text">* 搜尋條件 * ：顯示新增至搜尋條件的解決方案、元件和篩選條件。您可以修改初始搜尋條件、以檢視所需的組態結果。您可以勾選 * 變更條件 * 、返回 * 搜尋條件 * 頁面並修改初始搜尋條件。您可以檢查 * 動態篩選 * 標籤、立即檢視元件之間的相容性。您可以取消核取 * 動態篩選 * 標籤、將多個元件一起新增、然後按一下 * 更新 * 計數。您可以勾選 * 嘗試不同的方法 * 索引標籤、以瀏覽至首頁。</block>
+  <block id="47e9518e04b7d57a34263f7892c863b8" category="list-text">* 精簡搜尋條件 * ：顯示不同類別下的元件清單。此窗格中列出的類別視搜尋條件和相容的組態而定。</block>
+  <block id="38d79dd1e98099e8c66985ea5676f993" category="list-text">如果您在初始搜尋條件中包含解決方案、您可以在「精簡搜尋條件 * 」頁面上、從該特定類別中選取元件、以及其他類別的元件。</block>
+  <block id="6cce0a2ed9251b55e6bfda158c667384" category="list-text">如果您在初始搜尋條件中包含特定元件、您就無法取消選取「 * 精簡搜尋條件 * 」頁面上初始搜尋條件中包含的元件、但您可以從其他類別中選取其他元件。</block>
+  <block id="8ab8467c478df9b1a8aceed1245a2d66" category="paragraph">在每個類別中、您可以使用篩選圖示來顯示搜尋文字方塊、並搜尋特定元件。如果您想要重設或清除「 * 搜尋條件 * 」窗格中的元件選擇、請按一下 * 「全部清除」 * 。</block>
+  <block id="3da77797c976f88886e4bcf4b163ecb0" category="paragraph">根據您從不同類別中選擇的元件、您會注意到組態結果的數量可能會有所不同。您選擇的元件越多、互通性對照表工具就越能縮小搜尋結果範圍、讓您檢視產品所需的組態。</block>
+  <block id="df2c00b46ef9ba19741e02e6a0b37e63" category="summary">您可以移除或更新不需要的儲存組態。</block>
+  <block id="586536c712502532cd5e34785e9b1c25" category="doc">從儲存的標記移除組態</block>
+  <block id="961c8e5340cb5778c5805a50326242e5" category="paragraph">如果您已從結果中儲存組態、您可以在不再需要組態以供參考時將其移除。</block>
+  <block id="03702cd77bb84e389813d7ad6b0a61cd" category="list-text">按一下黃色星號圖示以移除或更新儲存的組態。</block>
+  <block id="6bb5550ec20db2972bec2a14c98b4334" category="list-text">按一下 * 移除 * 以刪除儲存的組態。按一下快顯中的移除按鈕後、星號圖示會從黃色變為白色。</block>
+  <block id="e1166f794cd554e4bb0519d72e4ac49c" category="summary">如果遇到問題、您可以向支援和意見反應團隊回報問題。</block>
+  <block id="c9be257d441fc3cc4d51ae5752c6e9a1" category="paragraph">如果您遇到問題、您可以使用 * 回報問題 * 功能、將問題回報給支援與意見反應團隊。</block>
+  <block id="c7a90011ec4e77f58a2cac82e14e9ff6" category="summary">您可以儲存最近的搜尋、以保留日後搜尋的條件。</block>
+  <block id="54920763a7a968a65321a00d66b3acc3" category="doc">儲存最近的搜尋</block>
+  <block id="f3422b785e2576499ec1f1f61c205db5" category="paragraph">從「歡迎使用 IMT 」頁面、您可以儲存最近的搜尋、以保留日後搜尋的準則。</block>
+  <block id="c20fd47018c862a7451d053362dbf161" category="list-text">按一下「解決方案搜尋」或「進階搜尋」。</block>
+  <block id="41560cf107c4abdd66a9c07e7023edb3" category="list-text">選取搜尋條件。</block>
+  <block id="8debc2e41568eb8094071b5fa349e738" category="list-text">選取跳至結果、或按一下「下一步」以精簡搜尋條件、然後瀏覽至「檢視支援的組態（結果）」頁面。</block>
+  <block id="a7ed4616aab31f1b8a77e3e48b8a7082" category="paragraph">快顯對話方塊會通知您準則會自動儲存。</block>
+  <block id="f79de03d41d30156ddeeeeb88d64f5c6" category="summary">您可以使用 * 儲存的搜尋 * 功能表來載入不同的解決方案或組態、此功能可讓您瀏覽至先前儲存的搜尋結果、最近的搜尋結果和儲存的組態。</block>
+  <block id="bafb5d5d68032f0cd01cfbc25237cbaa" category="doc">儲存的搜尋功能</block>
+  <block id="fcc9eb63d6626293c9d2af5d47a3694c" category="paragraph">「 * 搜尋條件 * 」標籤會保留您儲存的搜尋。在此索引標籤上、您可以共用搜尋或檢視他人與您共用的搜尋。* 組態 * 索引標籤會保存您儲存的組態。在此索引標籤上、您可以共用組態或檢視其他人與您共用的組態。</block>
+  <block id="bf7484feef7ef313fd098d9c643450f4" category="paragraph">「最近搜尋 * 」標籤包含從最近搜尋到最舊搜尋的最後 30 組搜尋條件。它也會列出 * 搜尋流程 * ，指出來源頁面，可以是 * 清單與尋找、解決方案總管或進階搜尋 * 。準則會自動儲存。此頁面也會列出已儲存或最近搜尋的 * 上次修改日期 * 。您可以 * 載入 * 從清單中搜尋、以分別檢視條件或組態。</block>
+  <block id="8a697a78ea03392a1de668f9f7640de2" category="summary">您可以與其他使用者分享您的條件。</block>
+  <block id="40100e04c6c8b66e6166b86ca1223ad1" category="doc">已儲存的搜尋條件與其他使用者共用</block>
+  <block id="d223a67d6761207bc0016c62152b8f78" category="paragraph">從 * 精簡搜尋條件 * 頁面、您可以與其他使用者分享 * 儲存的搜尋 * 條件。</block>
+  <block id="1afa3fab843060f56d47cf8e18d47c26" category="paragraph">以下是儲存及共用搜尋條件的三種不同方法：</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-xref"></block>
+  <block id="0917c609dcc1133b4b04893020ce5a9b" category="list-text"><block ref="e1d20b7c5345a1ca0d4ca5f18c411088" category="inline-xref-macro-rx"></block></block>
+  <block id="7c8ad1f0e7393914bfd5bf3ef0aaa84e" category="list-text"><block ref="aa46c9ec17ec30bac8d2ba8aea4ef2b6" category="inline-xref-macro-rx"></block></block>
+  <block id="9b8d12df1814ba93968722bee2e2f7e6" category="list-text"><block ref="47f7ecc698c18cacae02465134f07565" category="inline-xref-macro-rx"></block></block>
+  <block id="2395aac43a3b28bcb3d86f1fb63899d8" category="section-title">在儲存的同時分享準則</block>
+  <block id="9575e98463c6debdaed1c1ef1328f491" category="paragraph">在「精簡搜尋條件」頁面中、您可以在儲存時共用搜尋條件。</block>
+  <block id="eb3a12b537be06f2f69e9ada2353baeb" category="paragraph">您必須在第一頁上新增解決方案和元件、才能在儲存時分享準則。</block>
+  <block id="d8e1a3e23e5ec1845d9c99d468966be7" category="list-text">選取「共用」核取方塊以共用儲存的搜尋條件。</block>
+  <block id="60a8990ca87e2fd3f76ab563a9551c78" category="list-text">在文字方塊中輸入使用者名稱以進行使用者搜尋、然後按一下新增使用者。</block>
+  <block id="df4719a8986d0ca8627a45e5b2a46e04" category="admonition">如果使用者名稱不存在、則會顯示驗證訊息。</block>
+  <block id="5925a1c0e312b718d3d78bbe35c3d49e" category="list-text">您可以在使用搜尋使用者選項時查詢、然後提交以共用條件。</block>
+  <block id="7426996286810ff9613244c7edeaf999" category="section-title">儲存後分享準則</block>
+  <block id="9c0d2a5e2b8b6136baed97a7f63f0097" category="paragraph">在「精簡搜尋條件」頁面中、您可以在儲存後共用搜尋條件。</block>
+  <block id="b65245bdf543a38aa3b148a2330dbb3a" category="paragraph">您必須在第一頁新增儲存的搜尋解決方案和元件、才能在儲存後共用條件。</block>
+  <block id="a2885b4d6eff311636d00f627324f01c" category="list-text">按一下首頁的「儲存的搜尋」選項。</block>
+  <block id="ff7f0220f271c42b464d84ad28453440" category="list-text">按一下「共用」與其他人共用條件。</block>
+  <block id="4cfc06fd58e7f0e2aa1b8f124813ae71" category="list-text">在文字方塊中輸入使用者名稱以搜尋使用者、然後按一下提交。</block>
+  <block id="2254b563c52fa08bf51259ad3a808829" category="section-title">檢視共用條件</block>
+  <block id="b8e28d04f87c426f5de7c9ef4f56a09e" category="paragraph">您必須將解決方案和元件儲存在儲存的搜尋中。</block>
+  <block id="5b7571e534ed46d4ca528df1d1715a72" category="list-text">您可以將儲存的搜尋選項設為預設值、以檢視您與其他使用者共用的條件。</block>
+  <block id="441a74be085e88436fc75c069f505a3d" category="list-text">從「共享者」欄中選取「使用者名稱」、以檢視共用條件。</block>
+  <block id="7af3734b7440460bde586b702e40dc8c" category="list-text">系統會傳送電子郵件通知給共用使用者、通知共用。</block>
+  <block id="cca1a017c6fe62d07caed34a55735170" category="admonition">對原始條件的更新不會影響共用的條件。它們被視為獨立實體。</block>
+  <block id="18713831a09c5c7f97239a674295ac2b" category="doc">儲存最近的搜尋</block>
+  <block id="43ce49852967977e02b10f118f2140e2" category="list-text">按一下 * 解決方案搜尋 * 或 * 進階搜尋 * 。</block>
+  <block id="e93c73fa13a2ee15f1e9b6e8d28873d8" category="list-text">選擇 * 跳至結果 * 或按一下 * 下一步 * 以精簡搜尋條件、然後瀏覽至 * 檢視支援的組態 * （結果）頁面。快顯對話方塊會通知您準則會自動儲存。</block>
+  <block id="bdfeda4bcd0bfa637e60d6c5fe2b25b5" category="summary">您可以使用您選擇的任何名稱來儲存組態、以供特定解決方案使用。</block>
+  <block id="cf565402d32b79d33f626252949a6941" category="doc">儲存組態</block>
+  <block id="09121540463fb871c274bbceeedeb725" category="paragraph">您可以使用您選擇的任何名稱來儲存組態、以供特定解決方案使用。這有助於您稍後擷取組態、而不會記住複雜的組態 ID 。</block>
+  <block id="ffe82760f5b16eb2eab68ba09dbf68c2" category="paragraph">稍後您可以尋找指定的名稱、輕鬆擷取所需的組態。</block>
+  <block id="e2999eb17be3afc60649f822e6018954" category="paragraph">如果您想稍後參照組態、可以使用您選擇的任何名稱儲存組態。</block>
+  <block id="6808587d16f321260a9d307bdfcad9e7" category="list-text">在 * 結果 * 頁面中、按一下星號以儲存組態。儲存組態後、星號會變成黃色。您最多可以儲存 20 個組態。</block>
+  <block id="840cd922c8d96b582780e1afb3986579" category="list-text">在 *Tag Configuration* （標記組態 * ）對話方塊中、輸入名稱和說明、將組態加入書籤以供參考。儲存的組態名稱會顯示在組態詳細資料連結上。您可以將多個組態新增至特定標記。標籤是單一解決方案所獨有的。不同的使用者可以使用相同的標記名稱。</block>
+  <block id="8a8179dcbfdb34614a07f6a3ab8767dc" category="list-text">從下拉式箭頭中選取標籤名稱、將組態新增至已儲存的標籤。</block>
+  <block id="3f2d805e8c14e765c1ddc7588aa0af74" category="summary">在「精簡搜尋條件」頁面上、您可以選擇儲存或更新搜尋條件、以便稍後擷取。</block>
+  <block id="7cf37abfb86f13e7881ba7f0ee929775" category="doc">儲存搜尋條件</block>
+  <block id="69bd39b27396c460de7dffde002b3a4f" category="paragraph">在 * 精簡搜尋準則 * 頁面上、您可以選擇儲存或更新搜尋準則、以便稍後擷取。</block>
+  <block id="24bb7af209fc829bb1f38a2b1bbbcf02" category="paragraph">您必須在第一頁上新增解決方案和元件、才能儲存條件以供日後參考。</block>
+  <block id="e12e456faab15986ce687ca283dfee9a" category="list-text">按一下 * 精簡搜尋條件 * 頁面上的 * 儲存條件 * 。</block>
+  <block id="c3511a2a75c145a073031ce67b4cde18" category="list-text">輸入 * 條件名稱 * 、並在 * 說明 * 欄位中新增資訊。* 條件名稱 * 可以是英數字元、最多可新增 20 個字元。「 * 說明 * 」欄位最多可包含 100 個英數字元。互通性對照表工具不允許重複名稱來儲存條件。* 條件名稱 * 為必填項目。</block>
+  <block id="394f358d6e8000897e7a01a4f208e59c" category="list-text">按一下 * 更新條件 * 以新增篩選條件或條件、以納入儲存條件中。</block>
+  <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">按一下「 * 儲存 * 」。儲存條件 * 連結會在您儲存條件之後變更為 * 更新條件 * 。您最多可以儲存 10 個搜尋條件。</block>
+  <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">當您按一下 * 儲存的搜尋 * 時、會顯示 * 儲存的條件 * 快顯視窗。「最近搜尋 * 」標籤會顯示您最近的搜尋。</block>
+  <block id="d449eb38510b44904f1a170873f49309" category="paragraph">每個最近儲存的搜尋都會以其時間戳記來唯一識別。您可以按一下時間戳記、前往 * 精簡搜尋條件 * 頁面。</block>
+  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">您可以使用 * 結果 * 頁面中的假設條件功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。</block>
+  <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">選取要升級或降級的元件</block>
+  <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">您可以使用 * 結果 * 頁面中的 * 如果 * 功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。</block>
+  <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">按一下 * 如果 * 可檢視您可以升級或降級以修改所選組態的元件。</block>
+  <block id="feebe9eaa17ff80987d6eb3d371add59" category="list-text">按一下類別以檢視可供升級或降級的可用元件。</block>
+  <block id="b8d80b74292e31d238a66820c48de737" category="list-text">在「可用選項」視窗中、您可以搜尋特定的元件版本並加以選取。</block>
+  <block id="d2744c2316440720f728725fd2656a4e" category="list-text">如果所選元件為有效組態、且與您先前的組態相容、則會顯示相容性訊息。您現在可以匯出結果以檢視所有支援的組態。</block>
+  <block id="8b6ae4b6bac8d1c26b12c08daa8236bb" category="summary">您可以檢視及下載 Excel 或 PDF 版本的解決方案報告。</block>
+  <block id="431bda3fd1123e74a18c1b2f404f7e3e" category="doc">解決方案報告</block>
+  <block id="999cd51a83c0715733614645b09d0112" category="paragraph">您可以使用 * 報告 &gt; 完整每日匯出 * 功能來檢視及下載 Excel 或 PDF 版本的解決方案報告。您也可以下載 * 元件 EOVS Summary* 的 Excel 版本、其中列出已達到版本支援結束的元件。</block>
+  <block id="813c39388e3ea4a4a2178b06f3abbd5f" category="summary">您可以訂閱您選擇的單一或多個類別。</block>
+  <block id="f275139dd1477a6116bca7a603350e57" category="doc">訂閱類別</block>
+  <block id="459458724e11ff0e5c0c5226c14171c0" category="paragraph">當從類別新增或刪除元件時、您會收到電子郵件通知。</block>
+  <block id="3577e45092be56ad7e64ba9b429c5705" category="list-text">按一下標題功能表中的 * 訂閱 * 連結。</block>
+  <block id="55f6cfca3d425decf96d896fa7580ab1" category="list-text">在訂閱視窗中、選取 * 類別 * 索引標籤。</block>
+  <block id="7d96920540505974c713c982d17d0686" category="list-text">針對您選擇的類別、選取「新增或刪除元件」選項的核取方塊。</block>
+  <block id="214df4595fc1ae4002445d2e3d07b390" category="list-text">在 * 頻率 * 欄位中、選取 * 立即 * 或 * 摘要 * 。</block>
+  <block id="7b3ef14ab163be72192be9a5252bd234" category="admonition">預設選項為 * 立即 * 。</block>
+  <block id="1c7eecc0e0946fba660b6c6a82700369" category="list-text">按一下 * 訂閱 * 以取得您所訂閱類別的訂閱。</block>
+  <block id="41a8e722844ed7656085dd96bbb0d312" category="admonition">您可以按一下 * 重設 * 以清除「類別」標籤中的所有選項。</block>
+  <block id="8cdb27b864d6e06976dc6261cd18bb5b" category="summary">您可以訂閱您選擇的單一或多個元件。</block>
+  <block id="508fbbd790f857127c9155f0724c240d" category="doc">訂閱元件</block>
+  <block id="e81ebc26abd04b71d90173320c78d4dd" category="paragraph">當元件的顯示名稱或狀態有變更時、您會收到電子郵件通知。</block>
+  <block id="574e15debf5778641af59391da9500fe" category="list-text">在訂閱視窗中、選取 * 元件 * 索引標籤。</block>
+  <block id="01c10d345f044c7f18be37263c5baeed" category="list-text">若要訂閱您選擇的元件、請勾選 * 屬性更新 * 選項的核取方塊。</block>
+  <block id="272cade40d7e9076a3e79ba7ae5d07a3" category="list-text">按一下 * 訂閱 * 以取得您所訂閱元件的訂閱。</block>
+  <block id="7f69ab239a1b8ebd84d3729fe9a802fe" category="admonition">您可以按一下 * 重設 * 來清除 * 元件 * 標籤中的所有選項。</block>
+  <block id="e1e7614f94499f2aca20f63a15fb39e0" category="summary">您可以使用任何名稱訂閱特定解決方案或元件的組態。</block>
+  <block id="8c5e710b463aebcc3607a3e16a62d378" category="doc">訂閱組態</block>
+  <block id="4b08176137b02874d2675f566ef9dbec" category="paragraph">您可以使用任何名稱訂閱特定解決方案或元件的組態。這有助於您在訂閱資料列中有更新或變更時、透過電子郵件接收更新。您最多可訂閱 20 個組態。</block>
+  <block id="1f44a59ac278476eb9645e196a6b1af6" category="paragraph">您可以收到下列執行個體的電子郵件：</block>
+  <block id="873da3c1506651d4830f2fe6fd1198a9" category="list-text">將元件新增至組態時</block>
+  <block id="87955c5cf2df63e6bef81a8605eb9c3e" category="list-text">從組態中刪除元件時</block>
+  <block id="6b764f9ef0a98a99bcca8f397c582829" category="list-text">從組態新增或刪除附註時</block>
+  <block id="2066131a3ad142dcaccc1edc38957728" category="list-text">當組態狀態從「支援」變更為任何其他終端機狀態時（ EOS 、 Obsolete 等）。</block>
+  <block id="833cb41c65cebd1adbd9cdfe76fe47af" category="list-text">在 *Tag Configuration* （標記組態 * ）對話方塊中、輸入名稱和說明、將組態加入書籤以供參考。</block>
+  <block id="0853005568038530d17f8b473aa83d18" category="list-text">按一下 * 訂閱 * 至此組態核取方塊。</block>
+  <block id="336179b864dd55354e8b20409f39c675" category="list-text">按一下 * 標記 * 。</block>
+  <block id="a0ffe02c554c55c787a11d9720938449" category="summary">您可以訂閱單一或多個儲存解決方案、類別或您選擇的元件。</block>
+  <block id="4dfece803af058364e1f077c76d10645" category="doc">訂閱儲存解決方案、類別或元件</block>
+  <block id="588de430ceae787096fad95acc7e45fc" category="paragraph">「 * 訂閱 * 」標籤可讓您訂閱下列訂閱：</block>
+  <block id="54cbeb8988d779c80f3bfdeaf257380e" category="list-text">訂閱儲存解決方案</block>
+  <block id="a3038ba6a940fdf1b2dba20f347ea7ec" category="list-text">訂閱類別</block>
+  <block id="5d0937f99cb4eacba4b6cd45fbdf78e2" category="list-text">訂閱元件</block>
+  <block id="a62824c4f47fa0da7d944f92c36e0d73" category="summary">您可以選擇訂閱單一或多個儲存解決方案。</block>
+  <block id="c200e8439b397b7e65939a7feab229e0" category="doc">訂閱儲存解決方案</block>
+  <block id="2d6152b89ad002d7fcc2cfe8ceef2c4c" category="paragraph">訂閱的兩種類型如下：</block>
+  <block id="461cc16dc1432fa6d10fa88f7778f4b0" category="list-text">* 立即 * ：如果訂閱的解決方案有任何變更、您將會立即收到電子郵件。</block>
+  <block id="0215d3bb71b13ee4534fa20733a7ef47" category="list-text">* 摘要 * ：您將在七天內收到一封累積的電子郵件、其中包含訂閱解決方案的所有變更。</block>
+  <block id="bb15c131ac9fd6083c71a0d91e6bd2ef" category="list-text">在 *Subscription* （訂閱）窗口中，選擇 *Storage Solution* （儲存解決方案）選項卡。</block>
+  <block id="2dd900b3e88533d0a191c1e12f347a6a" category="list-text">對於您選擇的儲存解決方案、請勾選 * 解決方案狀態更新、相關或不相關類別、或新增或刪除的組態 * 選項的核取方塊。</block>
+  <block id="6ce8ddc7f15b5911c3e6ea44a5a0c155" category="paragraph">您將收到下列執行個體的電子郵件：</block>
+  <block id="7c5f6302701612ddd3eb7b943612c3ed" category="list-text">解決方案狀態變更或更新時。</block>
+  <block id="08ab5ebeb1193b28045b328e8e62bdbd" category="list-text">從解決方案新增或刪除某些類別時</block>
+  <block id="bfc3ceef09d090d222b0f1b4ca5fbe9a" category="list-text">從解決方案新增或刪除部分組態時</block>
+  <block id="913efce424822314257e798b0558a5bd" category="list-text">在 * 頻率 * 欄位中、選取 * 立即 * 或 * 摘要 * 。</block>
+  <block id="67efe4e7df356a0e984d0b7528d0ce52" category="list-text">按一下 * 訂閱 * 以訂閱您選擇的解決方案。</block>
+  <block id="4f8a359ff75a95d3060e02c255c77059" category="admonition">您可以按一下 * 重設 * 來清除 * 儲存解決方案 * 標籤中的所有選項。</block>
+  <block id="ba07bc773ce0f918b1eefce047245719" category="summary">互通性對照表工具（ IMT ）可讓您輕鬆檢視支援組態的結果。</block>
+  <block id="0769ff8c1f83c91c3b16b9ce2775faab" category="doc">支援的組態搜尋</block>
+  <block id="a85654fdf83648d3d156ca9b589151ef" category="paragraph">互通性對照表工具（ IMT ）可讓您輕鬆檢視支援組態的結果。您可以執行多項工作、例如修改、篩選或匯出結果、以及檢視或修改搜尋條件。</block>
+  <block id="125196a9553cb7d66c81efa5b9955299" category="paragraph">在 * 結果 * 頁面中、 IMT 會根據您輸入的搜尋條件、顯示多個支援的組態。您可以按一下組態名稱或 ID 來檢視特定組態的完整組態詳細資料（例如 2015020202-204717518 ）。</block>
+  <block id="eff88d54854b0637031f4066736623bc" category="cell">欄位名稱</block>
+  <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">說明</block>
+  <block id="1d1072a665cbd7dce3a24d1d65d8841e" category="cell">跳至結果</block>
+  <block id="c02f6ac7ed2ef03115324db2d2969b64" category="cell">可讓您跳過 * 精簡搜尋條件 * 頁面、直接前往 * 結果 * 頁面。</block>
+  <block id="5599cdd55ff94796811f21712663c422" category="cell">組態名稱或 ID</block>
+  <block id="e299f86d07766b826feb2bdd501107f4" category="cell">組態名稱或 ID 是指派給特定組態的唯一識別碼。您可以按一下組態名稱來檢視所有組態詳細資料。模型組態的狀態會與模型組態名稱一起顯示。</block>
+  <block id="3ec365dd533ddb7ef3d1c111186ce872" category="cell">詳細資料</block>
+  <block id="18db45df0ae63dc08635ce638e77dcd7" category="cell">提供特定組態的相容元件和類別的相關資訊。</block>
+  <block id="df583ae7ba964fd4806b55904da81813" category="cell">警示</block>
+  <block id="16376cb8d4986c15fde7c163e711c21e" category="cell">提供有關組態的重要資訊、例如版本資訊、部署資訊、建議等。</block>
+  <block id="4059b0251f66a18cb56f544728796875" category="cell">資訊</block>
+  <block id="0a6af34dc2bd480d3ef1ded69dfa5798" category="cell">提供有關組態的其他資訊。</block>
+  <block id="16d2b386b2034b9488996466aaae0b57" category="cell">歷史記錄</block>
+  <block id="3456dcddae33c9d9fbce081495426626" category="cell">提供組態內容的歷程記錄。新增詳細資料時、組態內容會以綠色反白顯示；更新詳細資料時會以藍色顯示；移除詳細資料時會以紅色顯示刪除標記；若詳細資料沒有變更、則會以黑色顯示。</block>
+  <block id="8a4eba6be6fe9fbed9197dec9246211f" category="cell">使用建立端點對端點檢視</block>
+  <block id="cc9cac1dbf04eaad7c07a7d71788b5b4" category="cell">可讓您選擇與所選組態相容的相關解決方案、以建立端點對端點檢視。</block>
+  <block id="2e80766098eb34af82b93df208cfbcbe" category="cell">假設</block>
+  <block id="b469ddc1b2bad5148648fe1d17486519" category="cell">可讓您升級或降級所選組態中的元件。</block>
+  <block id="13dba24862cf9128167a59100e154c8d" category="cell">列印</block>
+  <block id="68d5b3fc11e857e1c32f584c3efdd0f2" category="cell">可讓您列印組態詳細資料。</block>
+  <block id="3c9681e304578d72f4fcc717594acf97" category="cell">原則與準則</block>
+  <block id="c7ac661a5b30b8b33e41f7666cf83630" category="cell">協助您深入瞭解適用於所選組態的原則和準則。如果原則和準則中新增任何變更、變更會以黃色強調顯示、並適用於 30 天。如果移除任何原則和準則、變更就會遭到淘汰。如果在 * 原則與準則 * 欄位中有任何變更、則會以紅色的「新」圖示表示。</block>
+  <block id="d7778d0c64b6ba21494c97f77a66885a" category="cell">篩選器</block>
+  <block id="e2b5aa4cc556e932a2044c610346bd30" category="cell">可讓您搜尋在特定期間內修改的組態、方法是在 * 上次修改時間 * 和 * 和 * 欄位中提供適當的日期範圍。</block>
+  <block id="f4c6f851b00d5518bf888815de279aba" category="cell">附註</block>
+  <block id="91d772a9c635e8c0866aee344754c015" category="cell">提供與組態相關的附註。</block>
+  <block id="d92a232846a2b6f240bb2eb35c9f7bb4" category="cell">資料列比較</block>
+  <block id="3327f21bfe91c3080746e524d208e283" category="cell">可讓您將兩列與組態進行比較。</block>
+  <block id="21b23c6fe7af0b50eee0642047379d4d" category="paragraph">搜尋結果會顯示每個結果的組態詳細資料。搜尋結果的每一列都會顯示屬於目前所選儲存解決方案的組態詳細資料。* 支援結束 * 狀態的組態列會以灰色顯示、組態名稱旁的狀態會被稱為 * EOS* 或 * PVM* 。</block>
+  <block id="b8d3d6fd3dd366569b26adf45da258c1" category="summary">Active IQ 互通性顧問工具可讓您在使用特定條件進行搜尋時產生相容性報告。</block>
+  <block id="745011275a4b527af05f38dd17f2dfa5" category="doc">Active IQ 互通顧問工具可判斷相容性</block>
+  <block id="2abe1b0b799ea6958ab05808dfd2e6f0" category="paragraph">Active IQ Interop Advisor * 工具可讓您在使用特定條件進行搜尋時產生相容性報告。</block>
+  <block id="4b95bd73f371d633944b277ea2f8940d" category="paragraph">您可以依下列任一條件進行搜尋：</block>
+  <block id="3460276ef9eb483d13aa31b870077a0d" category="list-text">序號</block>
+  <block id="c13733ab0cde1d7164208b013c7e85db" category="list-text">叢集 ID</block>
+  <block id="9c88708a39e1e0d0de41fff6604be2e0" category="list-text">OneCollect 工作 ID</block>
+  <block id="ac602ad780aa2599010cea917dea5c94" category="paragraph">您可以在 *MyAutoSupport * 中找到先前的搜尋條件資訊。</block>
+  <block id="5005324a60c28050430af25f8b9d4f52" category="summary">「工具箱」 * 標籤會顯示一個可用工具清單、分為三個使用者類別。每個工具都會顯示一個連結。</block>
+  <block id="67414857279fd728c96de6f66ce60dcc" category="doc">工具箱中提供的工具</block>
+  <block id="e6d0e1c8fc6a4fcf47869df87e04cd88" category="list-text">客戶</block>
+  <block id="b5fe3a41d32647f20f3b5ec96045d6d6" category="list-text">Active IQ</block>
+  <block id="f9be17421d77a57baae245776004d9fc" category="list-text">Config Advisor</block>
+  <block id="5fb5241db38fadaca7a0d40dbe186627" category="list-text">ConfigEdge</block>
+  <block id="da160308e3b4b4a80bf1b72b5bdbedb8" category="list-text">Hardware Universe</block>
+  <block id="c1e384c5e7f936ddf073862dee019398" category="list-text">Active IQ 互通顧問</block>
+  <block id="b52e062fbdeb6bb20fccb9392805ce05" category="list-text">NetApp 公用網站</block>
+  <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="list-text">NetApp 支援網站</block>
+  <block id="ff331388ea55619596bcb6cf3a003112" category="list-text">一次收集</block>
+  <block id="922127e17a743afad1354adff731960d" category="list-text">統一解析器</block>
+  <block id="fd6df34ee4e7642c02ced6012028f6b8" category="list-text">合作夥伴</block>
+  <block id="1b3537665f74d77bd14a7f35ea69a8f6" category="list-text">Field Portal</block>
+  <block id="1f18043048963944d416269d09c9fece" category="list-text">LatX</block>
+  <block id="600a7a2d38e685027888b112c9f09cfa" category="list-text">QuoteEdge</block>
+  <block id="c73fb565aacaf9d4d138b982953a3cf9" category="list-text">SmartSolve</block>
+  <block id="b657a86dd93f1cc3153d34c28b3f330a" category="list-text">協同效益</block>
+  <block id="e21a868bc0bf8e20cba1dc01e82dfb89" category="list-text">System Performance Modeler</block>
+  <block id="38dd88763ce898bd0065e24b9d906e36" category="list-text">技術更新工具</block>
+  <block id="5bd24680ba49ea2dbc7fa31ac43b9d75" category="list-text">NetApp 內部使用</block>
+  <block id="657fd3eec6624217c3ad5de3744a69d2" category="list-text">敏捷</block>
+  <block id="0fe4758d380c457915385cf7f8364526" category="list-text">伯特</block>
+  <block id="d0aaf413ea3c98b4488b0e80e2c716f1" category="list-text">EPIC</block>
+  <block id="e8b07ff317b9395c4210e4e6ee15527f" category="summary">您應該瞭解一些常見的互通性對照表工具問題。</block>
+  <block id="374b1a86c0f09e71f4c247c57dd5f81f" category="doc">疑難排解互通性對照表工具問題</block>
+  <block id="2d9d499f457f866cd4e692bee7369005" category="cell">問題</block>
+  <block id="7aebfa1e2291377e040de92d7f7f335f" category="cell">因應措施</block>
+  <block id="4dfc53f36e1dec65c3576bb6b48febca" category="cell">無法載入互通性對照表工具</block>
+  <block id="5f18bf7ed82966c701b57fd41f1a8c22" category="cell">您必須清除瀏覽器快取、開啟新的瀏覽器、然後嘗試登入 IMT 。</block>
+  <block id="40b92c888e8f1d617bc09b10b894a451" category="cell">互通性對照表工具當機</block>
+  <block id="792f55b978d1fab7a11ede6fa50164cb" category="cell">這可能是網路問題、您可以嘗試重新整理瀏覽器。</block>
+  <block id="27bf486ce5cb0beff0bce7164447f6a7" category="cell">PI 不會推斷出所需的解決方案</block>
+  <block id="6bcad9cdb3be41e28c3647d3b2deac6b" category="cell">您必須從 * 解決方案目錄 * 中選取適當的解決方案、或選取特定元件。</block>
+  <block id="80a46d3b103de0b023943c2edf7d89f1" category="cell">無法在 * 精簡搜尋條件 * 中選取不同的 HBA 組態內容</block>
+  <block id="ccdaa17cccad4599b2f73f46abdd3db4" category="cell">您必須取消勾選 HBA 元件、然後選取內容。</block>
+  <block id="4caf9ed28a5d7ce495d04434581b152b" category="cell">每日報告產生會顯示 404 錯誤</block>
+  <block id="2fb40b8b208e17a91e19f13912277b9e" category="cell">每天的 cron 工作會在太平洋標準時間 22 ： 00 執行、 30 分鐘期間內、報告將無法使用。</block>
+  <block id="18131773929f49e2d03333f846c8e8a9" category="cell">第一次登入互通性對照表工具時、登入驗證失敗</block>
+  <block id="149b94e6c8c151a358440f89c8a75489" category="cell">您必須同步處理互通性對照表工具的登入認證。</block>
+  <block id="5ed3de7b6fcc4e15088e26acd0937748" category="cell">不會顯示新增的元件</block>
+  <block id="1319886e6d57f98ad8e8110beef9a17d" category="cell">等待四小時；元件會自動更新。</block>
+  <block id="70602a38ac0f4b98c770a6caae0aaf3a" category="summary">互通性對照表工具可讓您檢視及匯出符合您需求的組態結果。</block>
+  <block id="60e7014e789de3f60ea4e17d64bb01b7" category="doc">瞭解並使用互通性對照表工具結果</block>
+  <block id="b3583cd3c6ad27ace3e6abce443badd1" category="paragraph">互通性對照表工具可讓您檢視及匯出符合您需求的組態結果。從 * 結果 * 頁面、您可以選擇與所選組態相容的相關解決方案、來建置端點對端點檢視。此外、您可以使用 * If * What If* 功能來升級或降級組態中的元件。</block>
+  <block id="b3265dbcd4101d08359925c13b7bf6bb" category="summary">如果您想要接收更多更新、可以從「結果」頁面取消訂閱組態。</block>
+  <block id="346753ac0751bbc24e863f483b63cc14" category="doc">取消訂閱已訂閱的組態</block>
+  <block id="53a607950bfec5d5401aa3bfcb40d688" category="paragraph">如果您想要接收更多更新、可以從 * 結果 * 頁面取消訂閱組態。</block>
+  <block id="dd9fbf502ce2472f202cfc7a5955bf4f" category="paragraph">您必須已從 * 結果 * 頁面訂閱組態。</block>
+  <block id="d2e50314a1e8348725849e14a148c005" category="paragraph">若要取消訂閱組態：</block>
+  <block id="2ff49414f9a59731963781d2fe599a7e" category="list-text">在 * 結果 * 頁面中、按一下星號以取消訂閱組態。如果您從最愛清單中移除組態、組態會自動取消訂閱。</block>
+  <block id="6acf0028fdb5a7c7400ee13b800a5b80" category="summary">NetApp 互通性對照表工具（ IMT ）是網路型應用程式。IMT 可讓您搜尋符合 NetApp 所指定標準和要求的 NetApp 產品和元件組態</block>
+  <block id="cc5fc314522b4b09cd2aa04bd3a3f35e" category="doc">使用無法找到組態</block>
+  <block id="bb9e1f262e92df0b402da927acb28603" category="paragraph">如果找不到所需的組態、您可以使用 *CA 找不到組態？ * 功能、將問題回報給支援團隊。</block>
+  <block id="a1d312e83c32c0a40d094c17229a053a" category="paragraph">開啟 * 找不到組態？ * 功能表以回報問題。填寫並寄送表格以取得協助。</block>
+  <block id="6da8095a6390487f109a2a5846439157" category="summary">通知功能表會顯示您目前的通知。</block>
+  <block id="3c2db9c439c2e925fa947413bf4bf855" category="doc">使用通知</block>
+  <block id="5d9015c8edb2c933a6e7caf177a1834e" category="paragraph">「 * 通知 * 」功能表會顯示您目前的通知。</block>
+  <block id="6c46011fcd0d7911c2b61f02efb52129" category="summary">精簡搜尋條件可讓您探索產品的相容組態。</block>
+  <block id="b4bbb09392c90b3947cdb432d3d27e30" category="doc">使用「精簡搜尋條件」</block>
+  <block id="faa84239e1b2647e5bb0983d17bfc000" category="paragraph">* 精簡搜尋條件 * 可讓您探索產品的相容組態。您可以從不同類別中選取元件、將產生的組態縮小至產品所需的組態。</block>
+  <block id="1b9e32b8f904123d04a67fe606cceaa4" category="admonition">關鍵字 * 機架 * 和 * 刀鋒 * 只會與元件一起顯示在 * 4.x* 中。</block>
+  <block id="dd593eb13f2c8a1efb1881fc710f04be" category="summary">許多資料列在互通性對照表工具中包含非常類似的資訊、因此您可能會覺得這是一項繁瑣的手動程序、因此您可以找出資料列之間的差異。</block>
+  <block id="20b3802386d1ed5c62f4a00e49eb179c" category="doc">使用資料列比較</block>
+  <block id="ad118d64f1d46843db307e3019d5e24d" category="paragraph">許多資料列在互通性對照表工具中包含非常類似的資訊、因此您可能會覺得這是一項繁瑣的手動程序、因此您可以找出資料列之間的差異。互通性對照表工具提供比較兩列的功能。</block>
+  <block id="069d0514bed019adffa6b98198fbcab3" category="paragraph">在「結果」頁面中、每個解決方案都會主控「新增至比較」按鈕或組態卡標頭上的圖示。</block>
+  <block id="7873eb76fd54f0be0cb18574a2939c9a" category="list-text">若要新增比較組態、請按一下 * 組態元件比較 * 圖示。您最多可以選取兩個組態進行比較。</block>
+  <block id="ba5bfd55a92b4b1db47455be6a399f82" category="list-text">按一下 * 組態元件比較 * 按鈕來比較兩列。</block>
+  <block id="52363bd1c9aa306a445bffd05a0f61ec" category="paragraph">中途停留顯示方塊中的差異會以 * 粗體 * 字型反白顯示。這些元件會分組在個別的元件類型下。在兩列中相同的元件都是一般字型。您將無法比較兩種解決方案之間的資料列。</block>
+  <block id="9f8548f695e22969f89afa15c1a2e97d" category="summary">訂閱連結可讓您訂閱儲存解決方案、類別或元件。如果您已訂閱特定的儲存解決方案、類別或元件、則只有在訂閱的解決方案、類別或元件有變更時、才會收到電子郵件。</block>
+  <block id="898833500a2198903c1c83dfc109c034" category="doc">使用訂閱</block>
+  <block id="d130c63d82164f0cdd641554e6c0065f" category="paragraph">「 * 訂閱 * 」連結可讓您訂閱 * 儲存解決方案、類別或元件 * 。如果您已訂閱特定的儲存解決方案、類別或元件、則只有在訂閱的解決方案、類別或元件有變更時、才會收到電子郵件。</block>
+  <block id="8db70aba3fbc9a6b95c9b38b17281ee4" category="paragraph">您將收到下列訂閱的電子郵件：</block>
+  <block id="6aaaa6ee63ae61b3ccd3449b9db168c8" category="list-text">* 儲存解決方案 * ：當狀態更新中進行變更時、相關或不相關的類別、以及新增或刪除的組態。</block>
+  <block id="4f679bca94bf2251743828a60756af66" category="list-text">* 類別 * ：從類別中新增或刪除元件時。</block>
+  <block id="d54b1a2758b7e5ba3933627fd870466e" category="list-text">* 元件 * ：當元件的顯示名稱或元件狀態發生變更時。</block>
+  <block id="32e8c8034cc53d4add255eaca611041d" category="admonition">您會收到一封電子郵件、視您選擇的頻率類型而定。兩種頻率類型如下：</block>
+  <block id="644800f75dbb0533a7118b75eade12e4" category="list-text">立即：當訂閱的解決方案、類別或元件有任何變更時、您將立即收到電子郵件。</block>
+  <block id="b14aa29ea1ad370e9378af29d93cfa7d" category="list-text">摘要：您每七天就會收到一封累積的電子郵件、反映訂閱解決方案、類別或元件的所有變更。</block>
+  <block id="0e2a7801346c9a649707e972c3926306" category="summary">您可以探索搜尋條件所支援的所有可能組態。</block>
+  <block id="827ad910b151e2ee60d11bfee3d1c207" category="doc">使用假設條件</block>
+  <block id="3021a2b1e541ffbc51c584c2e7c27694" category="paragraph">您可以探索搜尋條件所支援的所有可能組態。您可以使用 * If * 來升級或降級所選組態的元件、並探索相容性。</block>
+  <block id="e8b2d018252ed6bec2cfc70d4cbfa7e1" category="inline-xref-macro">回報問題</block>
+  <block id="bdc78183d26b19d7860059ca9bce0bdf" category="paragraph">如果找不到所需的組態、請按一下 * 意見反應 * 回報問題。如需更多資訊、請參閱 <block ref="373fef4cf725e9b952ca544386721376" category="inline-xref-macro-rx"></block>。</block>
+  <block id="2ca70e123444aa174b92f33c622c8ad3" category="summary">「原則與準則」頁面會說明解決方案的所有目前資訊與指引。</block>
+  <block id="47af5fe6fb8ced5867f5b5b763b4acb6" category="doc">檢視原則與準則</block>
+  <block id="151536ba7a317231e3d5fd4d5883c17c" category="list-text">按一下 * 遊樂場 * 頁面上的 * 政策與準則 * 。「原則與準則」 * 頁面隨即開啟。</block>
+  <block id="7a3e4c7c6f1988fac1d5f9d707e486fd" category="list-text">檢閱解決方案的最新新聞、指引、政策資訊和版權。在 * 遊樂場 * 頁面上、您可以變更解決方案、以檢視其專屬的其他政策和準則。</block>
+  <block id="fd0b17648cbb96f58d57667a2638c245" category="list-text">關閉頁面並返回 * 遊樂場 * 頁面。</block>
+  <block id="2f626e6c5a6afb5eb305cba0328658ec" category="summary">在歡迎使用 IMT 頁面上、您可以載入儲存的搜尋條件、以顯示最近的搜尋。</block>
+  <block id="51bc1d62e0da280cc69969013d619869" category="doc">檢視最近的搜尋條件</block>
+  <block id="24e70611d99edf18b600cc25d967fb1e" category="paragraph">在「 * 歡迎使用 IMT * 」頁面上、您可以載入儲存的搜尋條件、以顯示最近的搜尋。</block>
+  <block id="d36179ee552c8cd7f2138babd00e9b23" category="paragraph">您必須已儲存最近的搜尋。</block>
+  <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">按一下 * 儲存的搜尋 * 。</block>
+  <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">選取 * 最近搜尋 * 索引標籤以檢視最近儲存的搜尋。隨即顯示您最近的搜尋。</block>
+  <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">選取 * 搜尋條件 * 索引標籤以檢視您特定的儲存搜尋條件。畫面會顯示您儲存的條件。</block>
+  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">您可以使用 * 進階搜尋 * 來搜尋不同的元件、並從搜尋條件中新增或移除元件。</block>
+  <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">使用進階搜尋</block>
+  <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">您可以使用 * 進階搜尋 * 來搜尋不同的元件、以便從搜尋條件中新增或移除元件。您可以使用 * 進階搜尋 * 視窗中的搜尋文字方塊來搜尋元件。</block>
+  <block id="6756f030171d226f3144040663767c49" category="paragraph">您可以視需要使用下列篩選條件：</block>
+  <block id="98b1c17c17aa647792153499156deb5d" category="list-text">選擇 * 不顯示有限支援元件 * 、以避免在結果中看到支援有限的元件。</block>
+  <block id="39b498afb424201be730ced244bee6c3" category="list-text">選取 * 不要顯示 EOVS 元件 * 、以避免在結果中看到支援版本結束的元件。</block>
+  <block id="0a878e7c0f88ad1e8e7e90459b61cb42" category="paragraph">您也可以在此頁面上檢視 * 元件總管、載入儲存的條件或組態 * 、或使用 * 搜尋輔助 * 。</block>
+  <block id="1d485407254c2b22c40dd2026cff46c6" category="doc">使用清單和尋找</block>
+  <block id="5e3c4ba62e19206dcf657ad7b622bafc" category="paragraph">在 * 清單和尋找 * 元件工作區中、您可以檢視元件的最佳組態。</block>
+  <block id="027b6d13735ce68325fbf3b69239bee8" category="paragraph">使用左側的 * 元件檔案總管 * 面板來檢視所選元件的組態。右側的面板會顯示解決方案、每個標籤都代表儲存解決方案、以及使用所選元件的組態數量。如果 * 清單和尋找元件工作區 * 上的綠色 * 邏輯 * 切換按鈕設為或、您可以搜尋含有單一元件組態的解決方案。如果綠色的 * 邏輯 * 切換按鈕設定為 * 和 * 、您可以搜尋包含所有所選元件之組態的解決方案。如果在相同的零組件類型中選擇多個零組件 , 則按鈕會設定為 * 或 * 。</block>
+  <block id="9f2c7bb4e0e0399fff157d283ef3cf20" category="list-text">按一下首頁上的 * 清單與尋找 * 。</block>
+  <block id="897c772a7e35dc75797920a141aedb90" category="list-text">在 * 元件檔案總管 * 中搜尋元件名稱、或展開選擇以將元件新增至 * 清單和尋找元件工作區 * 。</block>
+  <block id="45bd03466f004ddb3d958afadbf1b92a" category="admonition">在將元件新增至 * 清單並尋找元件工作區 * 之後、您可以選取特定的啟用解決方案、然後按一下 * 下一步 * 。您也可以在 Excel 試算表或 PDF 中一次匯出最多 3000 列的解決方案。</block>
+  <block id="7b20b2bbc03b292378be70bd74c67006" category="list-text">按一下 * 下一步 * 檢視在 * 結果 * 頁面上的多個解決方案組態中使用元件的位置。畫面會顯示元件清單中最相容的組態。</block>
+  <block id="127e34472d9dcb8e7825d453085448c7" category="summary">檢查 ONTAP 版本和 Flash 或 Fabric 儲存版本組合的相容性。您可以進一步調整每個相關元件的相容性搜尋</block>
+  <block id="45867ddf970470aa7e77f248425c75e6" category="doc">使用 ONTAP SAN 主機簡化搜尋</block>
+  <block id="61f451665f535dca2ca857c688b82ed8" category="paragraph">檢查 ONTAP 版本和 Flash 或 Fabric 儲存版本組合的相容性。您可以進一步調整每個相關元件的相容性搜尋。</block>
+  <block id="9c1a71cd4de013875c9b459346958efa" category="paragraph">您可以檢查 SAN 上的 Flash 或 Fabric 儲存裝置與您要使用的 ONTAP 版本和其他相關元件之間的相容性。您可以選擇 * 專家檢視 * 或 * 新手檢視 * 。</block>
+  <block id="40b1e4a59a1bc5c85695af0756b84ca0" category="admonition">按一下 * 設為預設 * 選項、即可在您開啟 IMT 時自動開啟 * ONTAP SAN 主機 Simplified * 搜尋。</block>
+  <block id="6ae251336f26dbfeacf40f8af4055800" category="list-text">從首頁按一下 * ONTAP SAN 主機 Simplified * 。</block>
+  <block id="9f350ade443152c2c85a538bbade24e8" category="list-text">選取您要使用的檢視：</block>
+  <block id="994ad29241d78e9164fabb5ffaad044c" category="list-text">按一下 * 專家檢視 * 以查看進階條件選項。</block>
+  <block id="fc2d52b231b65209de6b904e58054728" category="list-text">按一下 * 導覽檢視 * 以查看簡化和導引條件選項。</block>
+  <block id="d0faa1de14e7c4d8db450ac5951593f5" category="list-text">在 * 新手檢視 * 中、選取所顯示的搜尋條件選項。</block>
+  <block id="7d2fe68c49fe99a361082b6364a11e6c" category="list-text">單擊 * Skip* （跳過）可移至下一個組件，而無需進行選擇。您可以視需要按一下 *unski* 返回元件。</block>
+  <block id="c2e9533c50e6623c0b26145dfe971d7d" category="list-text">完成後、請按一下 * 檢視結果 * 以查看搜尋條件所支援的組態。</block>
+  <block id="041463b623ea41ae4843a90154289822" category="list-text">在 * 專家檢視 * 中、選取您要用於各種元件的搜尋條件。我們建議您從左移至右移、因為每個選擇都會精簡其餘條件。您不需要為每個元件進行選擇。</block>
+  <block id="b622e80fb613cd93f846f78712c55f21" category="list-text">您也可以在 * ONTAP SAN 主機 Simplified * 中執行下列動作：</block>
+  <block id="0d945fd644ef263977762f0180076e9c" category="list-text">按一下書籍圖示以檢視適用於您所選項目的原則和準則。</block>
+  <block id="ac2a3ee5cc0c6e8ac6d6904972485028" category="list-text">按一下鏈結圖示、為您的選項產生可共享的 URL 、供您與他人分享。</block>
+  <block id="59e0d9789f64ece5977e7f940ba53af0" category="list-text">選取復原圖示以清除所有選項、然後重新開始。</block>
+  <block id="ac370db43df7302f140520247cd911d0" category="list-text">在結果畫面中、您可以執行下列動作：</block>
+  <block id="5c9aecea84270e44fc9ec4a44d8badd9" category="list-text">檢視有關您組態的詳細資料、警示和資訊通知。</block>
+  <block id="6d09d563ca5efa55ac958df61c73bfb6" category="list-text">按一下星號圖示、將此搜尋設為我的最愛。命名並說明組態。這會變成儲存的搜尋、可從 * 儲存的搜尋 * 功能表檢視。您也可以在此處訂閱組態、以便在變更時通知您。如果您訂閱、您也會在 * 訂閱 * 功能表下看到這項資訊。</block>
+  <block id="a61fbf0d1c3ed9c2a1c08cb05d97e3a9" category="list-text">將游標暫留在 * 建置端點對端點檢視上方 * 、即可找到其他支援的解決方案。</block>
+  <block id="19bfe090a6a2c5fb7b287f5d7c17cd5e" category="list-text">按一下 * 如果 * 、即可變更元件並探索其他相容選項。</block>
+  <block id="e1075a632aa2a4299a5ce1d7a1eb1cc1" category="summary">您可以使用偏好設定清單和尋找類別偏好設定來儲存您最愛的類別。</block>
+  <block id="bea6af0d35e7d9db77ca5a88081ab11f" category="doc">使用偏好設定</block>
+  <block id="6e965a953c3c414acf42bd172897202b" category="paragraph">「 * 偏好設定清單」和「尋找類別偏好設定 * 」功能表會開啟「 * 清單和尋找類別偏好設定 * 」頁面、您可以將最愛的類別儲存到「 * 清單」和「尋找元件檔案總管 * 」清單的頂端。</block>
+  <block id="06bd3b66ef75cd45a080babe715be077" category="paragraph">您可以使用「 * 清單」和「尋找類別偏好設定 * 」頁面來選取您最愛的類別。這些類別會出現在 * 清單和尋找元件檔案總管 * 清單的頂端、並以紅色框線顯示。</block>
+  <block id="9971253c2d0d9e64cbd29574a229f3a7" category="list-text">單擊主頁上的 * 首選項列表並查找類別首選項 * 。「 * 清單與尋找類別偏好設定 * 」頁面隨即開啟。</block>
+  <block id="ab543d4e89323d7be3fb8199907b80cf" category="list-text">選取您要儲存為我的最愛的類別。您可以捲動清單、或在 * 搜尋類別 * 欄位中搜尋類別。您可以根據需要選擇任意多個類別。</block>
+  <block id="ae88ce9b5bb2f1d6426908fbdced0f18" category="list-text">按一下 * 儲存 * 以保留您的偏好設定。如有需要、您可以按一下 * 重設 * 來清除現有的偏好設定清單。</block>
+  <block id="69d1c0084e5b27989da1844d88af2a13" category="list-text">若要檢視您的偏好設定、請按一下 * 首頁 * 、然後按一下 * 清單與尋找 * 。您最喜愛的類別會顯示在 * 元件檔案總管 * 的頂端、以紅色顯示。</block>
+  <block id="fb156ce54b4ca2da822edd8aa40ad956" category="summary">OU 可以檢視及匯出符合您產品需求的組態結果。</block>
+  <block id="4830cad474537506142af149acab443e" category="doc">處理結果</block>
+  <block id="4d82c4a00337f4f8893787f478baed58" category="paragraph">您可以檢視及匯出符合產品需求的組態結果。</block>
+  <block id="7a7cbe01895fca99b25cc52488dfdfb0" category="paragraph">從 * 結果 * 頁面、您可以選擇與所選組態相容的相關解決方案、來建置端點對端點檢視。</block>
+  <block id="00d8407216cc7cfbe0b75371c9693434" category="admonition">如果您沒有看到預期的結果、請清除篩選條件。</block>
+  <block id="b48b202726bb5c6829fc6fd412762191" category="summary">您可以儲存及更新搜尋條件和組態。</block>
+  <block id="287cea239d29e9cedf992caa172af964" category="doc">使用儲存的準則、最近的搜尋和組態</block>
+  <block id="ceed8f9438f1c40008444f5ef0980d00" category="paragraph">您可以儲存及更新搜尋條件和組態。您可以載入、編輯及刪除儲存的準則和組態。</block>
+  <block id="2c9388e22e8d53e6cc4d40b002ce8372" category="summary">您可以使用搜尋助理、根據搜尋條件、提供您探索相容組態的建議。</block>
+  <block id="4478096ab411283fd2e6a8520fc4496f" category="doc">使用搜尋助理</block>
+  <block id="4987cd9246140609c39ded884952d01d" category="paragraph">* 搜尋輔助 * 會根據您輸入的搜尋條件、提供探索相容組態的建議。「 * 搜尋輔助 * 」區段會顯示常用的類別、您可以從中選取要納入搜尋條件的元件。根據您選擇的元件、搜尋助理會顯示相容的元件和解決方案。</block>
+  <block id="08e5e0ba24ad17a936307bab2f88e264" category="paragraph">如果您輸入的搜尋條件不正確、且互通性對照表工具（ IMT ）找不到任何結果、 * 搜尋輔助 * 會顯示修正搜尋條件的建議。</block>
+  <block id="ec537610e86351d19225db2784bf191f" category="summary">您可以使用搜尋文字方塊來搜尋元件、解決方案、類別和組態。視您輸入的文字而定、搜尋文字方塊會顯示您可以包含在搜尋條件中的可能相符項目。</block>
+  <block id="27e661d01e996755ff6343e36db32eca" category="doc">使用搜尋文字方塊</block>
+  <block id="414c2ebd5dd0c5ec528d47cd4e692033" category="summary">您可以搜尋不同的儲存解決方案、並從搜尋條件中新增或移除解決方案。您可以使用「解決方案搜尋」頁面中的搜尋文字方塊來搜尋特定解決方案。「解決方案搜尋」欄位會顯示經常存取的解決方案。</block>
+  <block id="7cca85d1f23f3abdc04fb438461cad0f" category="doc">使用解決方案搜尋</block>
+  <block id="df46242fb61bcf1a60e71305db81b7d9" category="paragraph">您可以搜尋不同的儲存解決方案、並從搜尋條件中新增或移除解決方案。您可以使用 * 解決方案搜尋 * 頁面中的搜尋文字方塊來搜尋特定的解決方案。經常存取的解決方案會顯示在 * 解決方案搜尋 * 欄位中。</block>
+  <block id="57db59ac9c6d6c1ace7a61d1f1391bc7" category="paragraph">「解決方案搜尋 * 」頁面包含 * 解決方案目錄 * 索引標籤和 * 對應助理 * 索引標籤。在 *Mapping Assistant* （映射助手）選項卡中，您可以選擇 *Map by Category* （按類別映射）或 *Map by Solution* （按解決方案映射）來查看選定解決方案的類別。</block>
+  <block id="1cafef499933520a9e86177fcb165e06" category="section-title">解決方案目錄</block>
+  <block id="7fae33de53bb2a5db04be163601aa253" category="paragraph">在 * 解決方案目錄 * 索引標籤上、您可以使用篩選列 * 篩選解決方案 * 。</block>
+  <block id="7f757fee6e4d6aaedaccbfee2a9c5443" category="paragraph">如果您想要納入這類組態、您也可以選擇 * 包含所需的 PVR 、 EOS 和 Obsolete 組態 * 。</block>
+  <block id="a61f1f1e80b63ed74149794321258708" category="section-title">地圖繪製助理</block>
+  <block id="522f2a5728bdde0e1e796e235a6db1d9" category="paragraph">以下是兩種工作區域模式：</block>
+  <block id="8bc84f3532dc0826e4fe9954b23a9e7a" category="list-text">* 依類別對應 * ：您可以從列出的類別中選取類別、並啟用包含所選類別的所有解決方案、有效的解決方案位於清單頂端。您可以選擇新增單一或多個已啟用的解決方案。您可以使用 * 搜尋類別 * 文字方塊來搜尋特定類別。</block>
+  <block id="83642ee81bca51efd5a8505c5dbb71ae" category="list-text">* 依解決方案對應 * ：您可以從列出的解決方案中選取解決方案、並啟用包含所選解決方案的所有解決方案、有效的解決方案位於清單頂端。您可以選擇新增單一或多個已啟用的解決方案。您可以使用 * 搜尋解決方案 * 文字方塊來搜尋特定類別。</block>
+  <block id="205b32aced3513c0bdb9dfdb8cbd86a4" category="paragraph">完成後、您可以在 * 所選儲存解決方案 * 下查看您所選取的項目。* 按一下檢視精簡搜尋條件 * 或 * 跳至結果 * 。</block>
+  <block id="7b830318624b05f50d5376aa150520a8" category="section-title">引導式搜尋</block>
+  <block id="0b4078bb132552033ef900528e6773cb" category="paragraph">* 引導式搜尋 * 會在您選擇解決方案時啟用。「 * 引導式搜尋 * 」提供引導式工作流程、可進一步調整條件。</block>
+  <block id="c8d8164a68d29958f434cb28bd55364c" category="list-text">按一下首頁的 * 解決方案搜尋 * 。</block>
+  <block id="c5d1a4e5b85f3b8338aa0a7306f6f126" category="list-text">按一下 * 專家檢視 * 以查看進階條件選項。</block>
+  <block id="77df4fedf30b095745c71ad8a5d6dbe1" category="list-text">按一下 * 導覽檢視 * 以查看簡化和導引條件選項。</block>
+  <block id="92966aaa8e23f9c38da8793b0ed456e4" category="list-text">在 * 新手檢視 * 中、選取所顯示的搜尋條件選項：</block>
+  <block id="717ada056e3a3ab33201e93190a96d7b" category="list-text">在前五個選項之後、按一下 * 顯示更多 * 以繼續細化您的搜尋條件。您可以按一下「 * 顯示更少 * 」返回上一個檢視。</block>
+  <block id="7381b6af8540464ba572c1a41d6bbece" category="list-text">您也可以在 * 解決方案搜尋 * 中執行下列動作：</block>
+  <block id="22ccf134d726013f225f30e415350afd" category="list-text">按一下鏈結圖示、為您的選項產生可共享的 URL 、供您與他人分享。</block>
+  <block id="2a255f76e7a4e41ac5208b9f9c1e14bf" category="list-text">選取復原圖示以清除所有您選擇的項目、然後重新開始。</block>
+  <block id="7d3548071d43ddbb5a114244d649cc72" category="list-text">按一下星號圖示、將此搜尋設為我的最愛。命名並說明組態。這會變成儲存的搜尋、可從「儲存的搜尋」功能表中檢視。您也可以在此處訂閱組態、以便在變更時通知您。如果您訂閱、您也會在 * 訂閱 * 功能表下看到這項資訊。</block>
+  <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">執行一般搜尋</block>
+  <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">儲存的搜尋功能</block>
+  <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">使用找不到組態</block>
+</blocks>

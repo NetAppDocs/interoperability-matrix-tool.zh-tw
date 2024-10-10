@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-overview.html 
+keywords: imt, interoperability, matrix, tool, 
+summary: 您可以儲存最近的搜尋、以保留日後搜尋的條件。 
+---
+= 儲存最近的搜尋
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+從「歡迎使用 IMT 」頁面、您可以儲存最近的搜尋、以保留日後搜尋的準則。
+
+.步驟
+. 按一下「解決方案搜尋」或「進階搜尋」。
+. 選取搜尋條件。
+. 選取跳至結果、或按一下「下一步」以精簡搜尋條件、然後瀏覽至「檢視支援的組態（結果）」頁面。
+
+
+快顯對話方塊會通知您準則會自動儲存。

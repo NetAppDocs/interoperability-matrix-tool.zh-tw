@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: reporting-an-issue.html 
+keywords: lash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 如果遇到問題、您可以向支援和意見反應團隊回報問題。 
+---
+= 回報問題
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您遇到問題、您可以使用 * 回報問題 * 功能、將問題回報給支援與意見反應團隊。

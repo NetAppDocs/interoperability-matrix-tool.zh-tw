@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以訂閱您選擇的單一或多個元件。 
+---
+= 訂閱元件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以訂閱您選擇的單一或多個元件。
+
+
+
+== 關於這項工作
+
+當元件的顯示名稱或狀態有變更時、您會收到電子郵件通知。
+
+
+
+== 步驟
+
+. 按一下標題功能表中的 * 訂閱 * 連結。
+. 在訂閱視窗中、選取 * 元件 * 索引標籤。
+. 若要訂閱您選擇的元件、請勾選 * 屬性更新 * 選項的核取方塊。
+. 在 * 頻率 * 欄位中、選取 * 立即 * 或 * 摘要 * 。
++
+
+NOTE: 預設選項為 * 立即 * 。
+
+. 按一下 * 訂閱 * 以取得您所訂閱元件的訂閱。
++
+
+NOTE: 您可以按一下 * 重設 * 來清除 * 元件 * 標籤中的所有選項。
+
+

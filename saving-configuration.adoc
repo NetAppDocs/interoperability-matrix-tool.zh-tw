@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-configuration.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用您選擇的任何名稱來儲存組態、以供特定解決方案使用。 
+---
+= 儲存組態
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用您選擇的任何名稱來儲存組態、以供特定解決方案使用。這有助於您稍後擷取組態、而不會記住複雜的組態 ID 。
+
+
+
+== 開始之前
+
+稍後您可以尋找指定的名稱、輕鬆擷取所需的組態。
+
+
+
+== 關於這項工作
+
+如果您想稍後參照組態、可以使用您選擇的任何名稱儲存組態。
+
+
+
+== 步驟
+
+. 在 * 結果 * 頁面中、按一下星號以儲存組態。儲存組態後、星號會變成黃色。您最多可以儲存 20 個組態。
+. 在 *Tag Configuration* （標記組態 * ）對話方塊中、輸入名稱和說明、將組態加入書籤以供參考。儲存的組態名稱會顯示在組態詳細資料連結上。您可以將多個組態新增至特定標記。標籤是單一解決方案所獨有的。不同的使用者可以使用相同的標記名稱。
+. 從下拉式箭頭中選取標籤名稱、將組態新增至已儲存的標籤。
+

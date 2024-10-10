@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在「精簡搜尋條件」頁面中、您可以選擇修改搜尋條件、將解決方案、元件或類別新增至條件。 
+---
+= 修改搜尋條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以從「 * 精簡搜尋條件 * 」頁面、選擇修改搜尋條件、將解決方案、元件或類別新增至條件。
+
+
+
+== 步驟
+
+. 在 * 精簡搜尋準則 * 頁面中、按一下 * 變更準則 * 。
+. 在搜尋條件頁面中、您可以使用搜尋文字方塊新增解決方案、元件或類別。
+. 按一下 * 下一步 * 、在 * 精簡搜尋條件 * 頁面中檢視相容的組態。
+

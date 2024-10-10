@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: apply-filters-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在「精簡搜尋條件」頁面中、您可以從不同類別中選取元件來套用篩選條件。套用篩選條件後、即可將元件新增至搜尋條件、並縮小組態結果的範圍。 
+---
+= 將篩選套用至類別
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在 * 精簡搜尋條件 * 頁面中、您可以從不同類別中選取元件來套用篩選條件。套用篩選條件後、即可將元件新增至搜尋條件、並縮小組態結果的範圍。
+
+
+
+== 步驟
+
+. 根據您的需求、從 * 精簡搜尋條件 * 頁面上的所需類別中選取元件。在每個類別中、您可以搜尋特定元件、然後選取所需的元件。
+. * 選用 * ：從不同類別中選取多個元件、以縮小組態結果的範圍。
+
+
+視所選元件的相容性而定、類別中可能無法使用部分元件。

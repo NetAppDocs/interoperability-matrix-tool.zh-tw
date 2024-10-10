@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: using-row-compare.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 許多資料列在互通性對照表工具中包含非常類似的資訊、因此您可能會覺得這是一項繁瑣的手動程序、因此您可以找出資料列之間的差異。 
+---
+= 使用資料列比較
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+許多資料列在互通性對照表工具中包含非常類似的資訊、因此您可能會覺得這是一項繁瑣的手動程序、因此您可以找出資料列之間的差異。互通性對照表工具提供比較兩列的功能。
+
+
+
+== 關於這項工作
+
+在「結果」頁面中、每個解決方案都會主控「新增至比較」按鈕或組態卡標頭上的圖示。
+
+
+
+== 步驟
+
+. 若要新增比較組態、請按一下 * 組態元件比較 * 圖示。您最多可以選取兩個組態進行比較。
+. 按一下 * 組態元件比較 * 按鈕來比較兩列。
+
+
+
+
+== 結果
+
+中途停留顯示方塊中的差異會以 * 粗體 * 字型反白顯示。這些元件會分組在個別的元件類型下。在兩列中相同的元件都是一般字型。您將無法比較兩種解決方案之間的資料列。

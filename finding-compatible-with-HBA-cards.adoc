@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-with-hba-cards.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards 
+summary: 您可以使用互通性對照表工具來檢視支援的主機作業系統、以進行如 Cisco UCS P81E 卡在 FCoE 上的組態。 
+---
+= 尋找與 HBA 卡的相容性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+有了 * 簡化的 ONTAP SAN 主機 * 功能、 UI 就能簡化並精簡成三個元件；舊版 UI 中有十三個元件。其餘的十個元件則受到 NetApp 的隱含支援、前提是這些元件受到個別廠商的支援。* 備註 * 和 * 警示 * 是依解決方案分類、並新增至每個結果。
+
+互通性對照表工具（ IMT ）支援的三個元件為 ONTAP OS 、主機作業系統和傳輸協定。
+
+您可以使用 IMT 來驗證 ONTAP 的主機作業系統支援能力。
+
+例如、使用下列組態、驗證 Cisco 統一運算系統（ Cisco UCS ）刀鋒伺服器與 ONTAP 的支援能力：
+
+* Cisco UCS 刀鋒伺服器組態範例 *
+
+* ONTAP 作業系統： 9.13.
+* 主機作業系統： Red Hat Enterprise Linux 9.2
+* 伺服器機型： Cisco UCS B200 M6 刀鋒伺服器
+* 主機匯流排介面卡（HBA）
++
+** 機型： Cisco UCSSB-MLOM-40G-04 ： Cisco UCS 1440 虛擬介面卡
+** 驅動程式版本： 1.6.0.53 fnic
+** 韌體版本： 5.3(2)
+
+
+* UCS 伺服器韌體： 5.2 （ 0 ）
+* 傳輸協定： FCoE
+
+
+* 驗證 Cisco UCS 刀鋒伺服器的支援能力 *
+
+* 使用 IMT 中的 * ONTAP SAN 主機 Simplified * 功能、確認 ONTAP 9 。 13.1 、 Red Hat Enterprise Linux 9.2 和 FCoE 通訊協定是否列為支援的組態。
+* NetApp 支援的 HBA 廠商有 Broadcom 、 Marvell 和 Cisco 。Cisco 包含在支援的介面卡清單中、表示也支援 Cisco 虛擬介面卡（ VIC ）。
+* 使用廠商的硬體相容性清單（ HCL ）來驗證 Cisco 「 UCS 硬體與軟體相容性」。如前述伺服器組態清單所述、請確認 Red Hat Enterprise Linux 9.2 支援 HBA 介面卡機型、 UCS 伺服器韌體版本、以及 HBA 驅動程式和韌體版本。
+

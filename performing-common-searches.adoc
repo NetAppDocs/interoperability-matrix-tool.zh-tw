@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: performing-common-searches.html 
+keywords: interoperability matrix tool, ONTAP SAN Host Simplified, Active IQ Advisor 
+summary: 使用互通性對照表工具（ IMT ）首頁上的卡片執行一般搜尋、包括簡化的 ONTAP SAN 主機、解決方案搜尋、清單和尋找、以及進階搜尋。 
+---
+= 執行一般搜尋
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+使用互通性對照表工具（ IMT ）首頁上的卡片執行一般搜尋、包括 * 簡化的 ONTAP SAN 主機 * 、 * 解決方案搜尋 * 、 * 清單與尋找 * 、以及 * 進階搜尋 * 。
+
+開啟 IMT 時、您會在首頁上看到最常見的搜尋類型：
+
+* * 簡化的 ONTAP SAN 主機 *
+* * 解決方案搜尋 *
+* * 列出並尋找 *
+* * 進階搜尋 *
+
+
+您也可以從首頁觀看 https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["訓練影片"]或開啟 https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance["Active IQ 顧問"]。

@@ -1,0 +1,68 @@
+---
+sidebar: sidebar 
+permalink: exploring-the-interoperability-matrix-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 互通性對照表工具（ IMT ）是一種網路型應用程式、可用於搜尋 NetApp 產品的相容性和支援組態。 
+---
+= 探索互通性對照表工具
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+互通性對照表工具（ IMT ）是一種網路型應用程式、可用於搜尋 NetApp 產品的相容性和支援組態。
+
+您可以執行下列工作：
+
+[cols="25,75"]
+|===
+| 使用此 ... | 您可以執行這些工作... 
+
+
+| 首頁 | 使用 * 簡化的 ONTAP SAN 主機、解決方案搜尋、清單與尋找 * 及 * 進階搜尋 * 進行搜尋、以檢視相容性。提供 * 訓練 * 影片和 * Active IQ 互通顧問 * 的直接連結。 
+
+
+| 簡化 ONTAP SAN 主機 | 檢查 ONTAP 版本和 Flash/Fabric 儲存版本組合的相容性。 
+
+
+| 解決方案搜尋 | 搜尋解決方案並新增條件以檢查相容性。 
+
+
+| 列出並尋找 | 瞭解元件在各種組態和解決方案中的使用位置。 
+
+
+| 進階搜尋 | 搜尋元件並新增條件以檢查相容性。 
+
+
+| 訂閱 | 檢視 * 您先前訂閱的儲存解決方案、類別或元件 * 組態。 
+
+
+| 通知 | 檢視 IMT 更新通知。 
+
+
+| 儲存的搜尋 | 開啟先前儲存的搜尋。 
+
+
+| 找不到組態 | 用於報告您在 IMT 中找不到的組態。 
+
+
+| 工具箱 | 視您身為 * 客戶、合作夥伴或內部 NetApp * 員工的角色而定、存取工具。 
+
+
+| 報告 | 使用 * 完整每日匯出 * 報告匯出解決方案的組態、或使用 * 元件 EOVS 摘要 * 報告匯出版本結束支援元件。 
+
+
+| 偏好 | 建立最愛 * 清單和尋找 * 類別的清單。這些類別會出現在 * 清單和尋找 * 中 * 元件檔案總管 * 的頂端。 
+
+
+| 說明 | 按一下 * 新增功能 * 以檢視 IMT 的最新版本資訊。按一下 * 線上說明 * 以檢視此互通性對照表工具說明集。單擊 * Training * （ * 培訓 * ）觀看有關如何使用 Interoperability Matrix Tool （互操作性表工具）的視頻，請查看 https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["NetApp 學習中心"^]。若要回報問題或提供互操作性對照表工具的意見反應、請按一下 * 回報問題 * 連結。按一下 * 常見問題集 * 以檢視關於 IMT 的常見問題集與解答。單擊 * Data Initiativ* （如果可用）查看 IMT 數據庫的計劃清理。按一下 * 關於 IMT * 以檢視版本和版權聲明。按一下 * 已知問題 * 以查看產品中已報告和未解決的錯誤。 
+
+
+| 參加導覽 | 歡迎參加導覽行程、瞭解 IMT 的相關資訊。 
+
+
+| <Your name> | 按一下以 * 登出 * IMT 。 
+|===
+
+NOTE: 如果您調整視窗大小、所有頁面都會回應。

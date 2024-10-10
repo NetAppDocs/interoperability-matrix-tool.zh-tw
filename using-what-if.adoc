@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: using-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 您可以探索搜尋條件所支援的所有可能組態。 
+---
+= 使用假設條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以探索搜尋條件所支援的所有可能組態。您可以使用 * If * 來升級或降級所選組態的元件、並探索相容性。
+
+如果找不到所需的組態、請按一下 * 意見反應 * 回報問題。如需更多資訊、請參閱 xref:reporting-an-issue.adoc[回報問題]。

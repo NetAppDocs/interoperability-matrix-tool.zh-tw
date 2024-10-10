@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: viewing-policies-and-guidelines.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 「原則與準則」頁面會說明解決方案的所有目前資訊與指引。 
+---
+= 檢視原則與準則
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+:firstname: [.lead]
+:author: [.lead]
+:authorinitials: [
+:authors: [.lead]
+:revdate: The *Policies &amp; Guidelines* link opens the Policies and Guidelines page for the selected solution.
+
+
+「原則與準則」頁面會說明解決方案的所有目前資訊與指引。
+
+
+
+== 步驟
+
+. 按一下 * 遊樂場 * 頁面上的 * 政策與準則 * 。「原則與準則」 * 頁面隨即開啟。
+. 檢閱解決方案的最新新聞、指引、政策資訊和版權。在 * 遊樂場 * 頁面上、您可以變更解決方案、以檢視其專屬的其他政策和準則。
+. 關閉頁面並返回 * 遊樂場 * 頁面。
+

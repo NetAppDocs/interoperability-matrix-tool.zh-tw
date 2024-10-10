@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: editing-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以編輯先前儲存的搜尋條件。 
+---
+= 編輯儲存的條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以編輯先前儲存的搜尋條件。您可以將任何新元件新增至儲存的條件、或從現有的儲存條件中移除元件。
+
+
+
+== 開始之前
+
+您必須載入已儲存的條件才能編輯。
+
+
+
+== 步驟
+
+. 載入儲存的條件、然後按一下儲存的條件連結。
+. 按一下 * 精簡搜尋條件 * 連結。您可以新增或移除已儲存準則的準則。
+

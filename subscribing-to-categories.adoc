@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以訂閱您選擇的單一或多個類別。 
+---
+= 訂閱類別
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以訂閱您選擇的單一或多個類別。
+
+
+
+== 關於這項工作
+
+當從類別新增或刪除元件時、您會收到電子郵件通知。
+
+
+
+== 步驟
+
+. 按一下標題功能表中的 * 訂閱 * 連結。
+. 在訂閱視窗中、選取 * 類別 * 索引標籤。
+. 針對您選擇的類別、選取「新增或刪除元件」選項的核取方塊。
+. 在 * 頻率 * 欄位中、選取 * 立即 * 或 * 摘要 * 。
++
+
+NOTE: 預設選項為 * 立即 * 。
+
+. 按一下 * 訂閱 * 以取得您所訂閱類別的訂閱。
+
+
+
+NOTE: 您可以按一下 * 重設 * 以清除「類別」標籤中的所有選項。

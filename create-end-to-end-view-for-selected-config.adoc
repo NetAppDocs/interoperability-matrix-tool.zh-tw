@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: create-end-to-end-view-for-selected-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 互通性對照表工具可讓您選取與組態相容的相關解決方案、為特定組態建立端點對端點檢視。 
+---
+= 為選取的組態建立端點對端點檢視
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+互通性對照表工具可讓您選取與組態相容的相關解決方案、為特定組態建立端點對端點檢視。您可以使用 * 結果 * 頁面中的 * 建置端點對端點檢視方式 * 功能來建立組態的端點對端點檢視。
+
+
+
+== 關於這項工作
+
+您只能從 *Result* 頁面為特定組態建立端點對端點檢視。
+
+
+
+== 步驟
+
+. 在特定組態的 * 結果 * 頁面中、按一下 * 建立端點對端點檢視方式 * 下拉式清單。
+. 從下拉式清單中、選取列出的與該特定組態相容的必要解決方案。與該特定組態不相容的解決方案會呈現灰色。
+. IMT 會在「 * 結果 * 」頁面中顯示新的索引標籤、指出修改後的組態。根據您的需求、您可以選擇使用 * 建置端點對端點檢視搭配 * 功能來納入其他解決方案、或匯出組態。
+

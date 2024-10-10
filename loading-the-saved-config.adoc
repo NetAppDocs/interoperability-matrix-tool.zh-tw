@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以從首頁載入先前儲存的組態。您可以檢視已儲存組態的標籤名稱、說明、解決方案名稱。 
+---
+= 載入儲存的組態
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以從首頁載入先前儲存的組態。您可以檢視已儲存組態的標籤名稱、說明、解決方案名稱。
+
+
+
+== 開始之前
+
+您可以尋找為該特定組態指定的名稱來載入特定組態。
+
+
+
+== 關於這項工作
+
+如果您已儲存組態、您可以稍後隨時載入。
+
+
+
+== 步驟
+
+. 在首頁上、按一下 * 儲存的搜尋 * 選項以載入儲存的組態。
+. 在 * 儲存的組態 * 標籤中、按一下組態。
+. 將滑鼠游標移至儲存的組態上方、即會顯示組態名稱。
+. 按一下 * 標籤名稱 * 並載入組態。
+. 按一下 * 檢視詳細資料 * 連結、前往「結果」頁面。
+

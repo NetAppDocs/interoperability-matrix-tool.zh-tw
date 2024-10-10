@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用任何名稱訂閱特定解決方案或元件的組態。 
+---
+= 訂閱組態
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用任何名稱訂閱特定解決方案或元件的組態。這有助於您在訂閱資料列中有更新或變更時、透過電子郵件接收更新。您最多可訂閱 20 個組態。
+
+
+
+== 關於這項工作
+
+您可以收到下列執行個體的電子郵件：
+
+* 將元件新增至組態時
+* 從組態中刪除元件時
+* 從組態新增或刪除附註時
+* 當組態狀態從「支援」變更為任何其他終端機狀態時（ EOS 、 Obsolete 等）。
+
+
+
+
+== 步驟
+
+. 在 * 結果 * 頁面中、按一下星號以儲存組態。儲存組態後、星號會變成黃色。您最多可以儲存 20 個組態。
+. 在 *Tag Configuration* （標記組態 * ）對話方塊中、輸入名稱和說明、將組態加入書籤以供參考。
+. 按一下 * 訂閱 * 至此組態核取方塊。
+. 按一下 * 標記 * 。
+

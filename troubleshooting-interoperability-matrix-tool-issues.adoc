@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: troubleshooting-interoperability-matrix-tool-issues.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您應該瞭解一些常見的互通性對照表工具問題。 
+---
+= 疑難排解互通性對照表工具問題
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您應該瞭解一些常見的互通性對照表工具問題。
+
+[cols="2*"]
+|===
+| 問題 | 因應措施 
+
+
+| 無法載入互通性對照表工具 | 您必須清除瀏覽器快取、開啟新的瀏覽器、然後嘗試登入 IMT 。 
+
+
+| 互通性對照表工具當機 | 這可能是網路問題、您可以嘗試重新整理瀏覽器。 
+
+
+| PI 不會推斷出所需的解決方案 | 您必須從 * 解決方案目錄 * 中選取適當的解決方案、或選取特定元件。 
+
+
+| 無法在 * 精簡搜尋條件 * 中選取不同的 HBA 組態內容 | 您必須取消勾選 HBA 元件、然後選取內容。 
+
+
+| 每日報告產生會顯示 404 錯誤 | 每天的 cron 工作會在太平洋標準時間 22 ： 00 執行、 30 分鐘期間內、報告將無法使用。 
+
+
+| 第一次登入互通性對照表工具時、登入驗證失敗 | 您必須同步處理互通性對照表工具的登入認證。 
+
+
+| 不會顯示新增的元件 | 等待四小時；元件會自動更新。 
+|===

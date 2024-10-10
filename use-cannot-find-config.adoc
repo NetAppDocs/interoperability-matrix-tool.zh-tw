@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: use-cannot-find-config.html 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified,cannot, find, configuration 
+summary: NetApp 互通性對照表工具（ IMT ）是網路型應用程式。IMT 可讓您搜尋符合 NetApp 所指定標準和要求的 NetApp 產品和元件組態 
+---
+= 使用無法找到組態
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果找不到所需的組態、您可以使用 *CA 找不到組態？ * 功能、將問題回報給支援團隊。
+
+開啟 * 找不到組態？ * 功能表以回報問題。填寫並寄送表格以取得協助。

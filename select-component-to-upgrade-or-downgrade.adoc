@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以使用 * 結果 * 頁面中的假設條件功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。 
+---
+= 選取要升級或降級的元件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用 * 結果 * 頁面中的 * 如果 * 功能、來升級或降級產品組態中的元件。您可以變更元件並探索相容性。
+
+.步驟
+. 按一下 * 如果 * 可檢視您可以升級或降級以修改所選組態的元件。
+. 按一下類別以檢視可供升級或降級的可用元件。
+. 在「可用選項」視窗中、您可以搜尋特定的元件版本並加以選取。
+. 如果所選元件為有效組態、且與您先前的組態相容、則會顯示相容性訊息。您現在可以匯出結果以檢視所有支援的組態。
+

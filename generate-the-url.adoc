@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: generate-the-url.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在「精簡搜尋條件」頁面中、您可以產生相容性的 URL 。 
+---
+= 產生 URL
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在 * 精簡搜尋準則 * 頁面中、您可以產生相容性的 URL 。您可以將產生的 URL 內嵌在其他工具中、將其上傳至 NetApp 支援網站、或透過電子郵件加以分享。產生的 URL 可直接上傳至瀏覽器。
+
+.步驟
+. 在 * 精簡搜尋準則 * 頁面中、選取要篩選結果的元件。
+. 按一下 * 產生 URL* 。
+. 從「 URL 共用」視窗複製 URL 。
+. 按一下「*確定*」。
+
+
+
+NOTE: 您可以使用已產生的 URL 。URL 會顯示您已新增至搜尋條件的元件和解決方案。

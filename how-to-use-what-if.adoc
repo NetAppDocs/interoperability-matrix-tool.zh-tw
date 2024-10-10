@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: * If 的功能 * 可讓您探索所有可能支援的組態。 
+---
+= 如何使用 If
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+* If 的功能 * 可讓您探索所有可能支援的組態。您可以使用 * If * What I* 功能來升級或降級所選組態中的元件、並探索相容性。若要在升級或降級元件之後檢視所有支援的組態、您可以使用 * 匯出 * 選項、將組態詳細資料匯出至 Excel 工作表或 PDF 。
+
+在「 * 假設」視窗中選取要升級或降級的特定元件之後、您可以檢視所選元件是否與組態中的其他元件相容、或是否沒有相符的組態。如果沒有相符的組態、您必須考慮擴充初始條件以導出更多組態。
+
+「假設」視窗分成兩個窗格：
+
+* 上方窗格會指出所選元件是否符合任何有效組態。
+* 下方窗格會顯示各種類別和個別元件版本。
+
+
+如果找不到所需的組態、請按一下 * 意見反應 * 回報問題。
+
+如需更多資訊、請參閱 link:reporting-an-issue.html["回報問題"]。

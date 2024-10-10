@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: working-with-advanced-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, advanced, search 
+summary: 您可以使用 * 進階搜尋 * 來搜尋不同的元件、並從搜尋條件中新增或移除元件。 
+---
+= 使用進階搜尋
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用 * 進階搜尋 * 來搜尋不同的元件、以便從搜尋條件中新增或移除元件。您可以使用 * 進階搜尋 * 視窗中的搜尋文字方塊來搜尋元件。
+
+您可以視需要使用下列篩選條件：
+
+* 選擇 * 不顯示有限支援元件 * 、以避免在結果中看到支援有限的元件。
+* 選取 * 不要顯示 EOVS 元件 * 、以避免在結果中看到支援版本結束的元件。
+
+
+您也可以在此頁面上檢視 * 元件總管、載入儲存的條件或組態 * 、或使用 * 搜尋輔助 * 。

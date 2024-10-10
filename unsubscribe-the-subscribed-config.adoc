@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: unsubscribe-the-subscribed-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 如果您想要接收更多更新、可以從「結果」頁面取消訂閱組態。 
+---
+= 取消訂閱已訂閱的組態
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您想要接收更多更新、可以從 * 結果 * 頁面取消訂閱組態。
+
+
+
+== 開始之前
+
+您必須已從 * 結果 * 頁面訂閱組態。
+
+若要取消訂閱組態：
+
+* 在 * 結果 * 頁面中、按一下星號以取消訂閱組態。如果您從最愛清單中移除組態、組態會自動取消訂閱。
+

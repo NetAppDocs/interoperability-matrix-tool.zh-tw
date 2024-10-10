@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以刪除儲存的搜尋條件。 
+---
+= 刪除儲存的條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以刪除儲存的搜尋條件。
+
+
+
+== 關於這項工作
+
+您必須擁有儲存條件的名稱、才能刪除儲存的條件。
+
+
+
+== 步驟
+
+. 按一下 * 行動 * 欄下的刪除圖示 * X* 。隨即顯示快顯視窗、詢問您是否要刪除儲存的條件。
+. 按一下 * 是 * 以刪除儲存的條件。
+. 按一下 * 否 * 以保留已儲存的條件。
+

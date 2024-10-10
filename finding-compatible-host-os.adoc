@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-host-os.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os, matrix 
+summary: 您可以使用互通性對照表工具來檢視與產品相容的支援主機作業系統。 
+---
+= 尋找適用於您產品的相容主機作業系統
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用互通性對照表工具來檢視與產品相容的支援主機作業系統。
+
+以下顯示工作流程：
+
+image::pg12_imt.png[pg12 IMT]

@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: add-config-names-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用搜尋文字方塊、將組態名稱新增至搜尋條件。 
+---
+= 將組態名稱新增至搜尋條件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用搜尋文字方塊、將組態名稱新增至搜尋條件。
+
+
+
+== 開始之前
+
+您必須擁有組態名稱詳細資料、才能搜尋相容的組態。例如、 20150316-114603946 是組態名稱。
+
+
+
+== 步驟
+
+. 在搜尋方塊中、輸入組態名稱以檢視可能的相符項目。
+. 按一下 * 新增 * 、將組態名稱納入搜尋條件。
+
